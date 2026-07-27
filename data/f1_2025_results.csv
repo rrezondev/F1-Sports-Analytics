@@ -1,0 +1,241 @@
+grand_prix,driver,team,position,points,status,tire_compound,pit_stops,avg_lap_time
+Australian Grand Prix,NOR,McLaren,1.0,25.0,Finished,INTERMEDIATE,5,103.42830188679247
+Australian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,INTERMEDIATE,5,103.34115094339623
+Australian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,INTERMEDIATE,5,103.68633962264151
+Australian Grand Prix,ANT,Mercedes,4.0,12.0,Finished,INTERMEDIATE,5,104.57937037037036
+Australian Grand Prix,ALB,Williams,5.0,10.0,Finished,INTERMEDIATE,5,104.67238888888889
+Australian Grand Prix,STR,Aston Martin,6.0,8.0,Finished,INTERMEDIATE,5,104.73012962962963
+Australian Grand Prix,HUL,Kick Sauber,7.0,6.0,Finished,INTERMEDIATE,5,104.74016666666667
+Australian Grand Prix,LEC,Ferrari,8.0,4.0,Finished,INTERMEDIATE,5,103.93352830188681
+Australian Grand Prix,PIA,McLaren,9.0,2.0,Finished,INTERMEDIATE,5,102.08446153846154
+Australian Grand Prix,HAM,Ferrari,10.0,1.0,Finished,INTERMEDIATE,5,103.9671886792453
+Chinese Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,97.41117857142856
+Chinese Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,97.58524999999999
+Chinese Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,1,97.60933928571428
+Chinese Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,HARD,1,97.70860714285713
+Chinese Grand Prix,OCO,Haas F1 Team,5.0,10.0,Finished,HARD,1,98.30348214285713
+Chinese Grand Prix,ANT,Mercedes,6.0,8.0,Finished,HARD,1,98.3709642857143
+Chinese Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,98.4169107142857
+Chinese Grand Prix,BEA,Haas F1 Team,8.0,4.0,Finished,MEDIUM,1,98.50587499999999
+Chinese Grand Prix,STR,Aston Martin,9.0,2.0,Finished,HARD,1,98.66482142857141
+Chinese Grand Prix,SAI,Williams,10.0,1.0,Finished,HARD,1,98.77523214285713
+Japanese Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,92.9619433962264
+Japanese Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,92.98879245283018
+Japanese Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,1,93.00211320754717
+Japanese Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,93.2656603773585
+Japanese Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,93.2895283018868
+Japanese Grand Prix,ANT,Mercedes,6.0,8.0,Finished,MEDIUM,1,93.31422641509432
+Japanese Grand Prix,HAM,Ferrari,7.0,6.0,Finished,HARD,1,93.51254716981131
+Japanese Grand Prix,HAD,Racing Bulls,8.0,4.0,Finished,HARD,1,93.66258490566038
+Japanese Grand Prix,ALB,Williams,9.0,2.0,Finished,HARD,1,93.72358490566035
+Japanese Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,HARD,1,93.99079245283018
+Bahrain Grand Prix,PIA,McLaren,1.0,25.0,Finished,MEDIUM,2,99.52437499999999
+Bahrain Grand Prix,RUS,Mercedes,2.0,18.0,Finished,SOFT,2,99.94875
+Bahrain Grand Prix,NOR,McLaren,3.0,15.0,Finished,MEDIUM,2,99.98400000000001
+Bahrain Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,100.01864285714285
+Bahrain Grand Prix,HAM,Ferrari,5.0,10.0,Finished,MEDIUM,2,100.27203571428572
+Bahrain Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,MEDIUM,2,101.29526315789474
+Bahrain Grand Prix,GAS,Alpine,7.0,6.0,Finished,HARD,2,101.32345614035087
+Bahrain Grand Prix,OCO,Haas F1 Team,8.0,4.0,Finished,HARD,2,101.46805263157894
+Bahrain Grand Prix,TSU,Red Bull Racing,9.0,2.0,Finished,SOFT,2,100.58903571428571
+Bahrain Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,SOFT,2,101.5268245614035
+Saudi Arabian Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,94.32264583333331
+Saudi Arabian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,94.35722916666667
+Saudi Arabian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,1,94.54710416666667
+Saudi Arabian Grand Prix,NOR,McLaren,4.0,12.0,Finished,HARD,1,94.71422916666667
+Saudi Arabian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,94.93283333333333
+Saudi Arabian Grand Prix,ANT,Mercedes,6.0,8.0,Finished,HARD,1,95.12464583333333
+Saudi Arabian Grand Prix,HAM,Ferrari,7.0,6.0,Finished,HARD,1,95.27227083333334
+Saudi Arabian Grand Prix,SAI,Williams,8.0,4.0,Finished,HARD,1,95.82191666666667
+Saudi Arabian Grand Prix,ALB,Williams,9.0,2.0,Finished,HARD,1,95.92666666666668
+Saudi Arabian Grand Prix,HAD,Racing Bulls,10.0,1.0,Finished,HARD,1,96.00102083333331
+Miami Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,93.53661403508772
+Miami Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,93.61784210526315
+Miami Grand Prix,RUS,Mercedes,3.0,15.0,Finished,MEDIUM,1,94.1970350877193
+Miami Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,HARD,1,94.23759649122806
+Miami Grand Prix,ALB,Williams,5.0,10.0,Finished,HARD,1,94.3798947368421
+Miami Grand Prix,ANT,Mercedes,6.0,8.0,Finished,HARD,1,94.51033333333334
+Miami Grand Prix,LEC,Ferrari,7.0,6.0,Finished,HARD,1,94.5372456140351
+Miami Grand Prix,HAM,Ferrari,8.0,4.0,Finished,MEDIUM,1,94.59250877192983
+Miami Grand Prix,SAI,Williams,9.0,2.0,Finished,HARD,1,94.59936842105263
+Miami Grand Prix,TSU,Red Bull Racing,10.0,1.0,Finished,HARD,1,94.7547543859649
+Emilia Romagna Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,87.19363492063495
+Emilia Romagna Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,2,87.29060317460316
+Emilia Romagna Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,2,87.39928571428572
+Emilia Romagna Grand Prix,HAM,Ferrari,4.0,12.0,Finished,HARD,2,87.42150793650794
+Emilia Romagna Grand Prix,ALB,Williams,5.0,10.0,Finished,HARD,2,87.47847619047621
+Emilia Romagna Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,2,87.52338095238096
+Emilia Romagna Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,2,87.54338095238097
+Emilia Romagna Grand Prix,SAI,Williams,8.0,4.0,Finished,HARD,2,87.55709523809524
+Emilia Romagna Grand Prix,HAD,Racing Bulls,9.0,2.0,Finished,HARD,2,87.56801587301587
+Emilia Romagna Grand Prix,TSU,Red Bull Racing,10.0,1.0,Finished,MEDIUM,2,87.61341269841272
+Monaco Grand Prix,NOR,McLaren,1.0,25.0,Finished,HARD,2,77.35696153846155
+Monaco Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,2,77.39710256410254
+Monaco Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,2,77.40385897435898
+Monaco Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,77.62070512820515
+Monaco Grand Prix,HAM,Ferrari,5.0,10.0,Finished,HARD,2,78.01576923076924
+Monaco Grand Prix,HAD,Racing Bulls,6.0,8.0,Lapped,HARD,2,79.20681818181818
+Monaco Grand Prix,OCO,Haas F1 Team,7.0,6.0,Lapped,HARD,2,79.21911688311688
+Monaco Grand Prix,LAW,Racing Bulls,8.0,4.0,Lapped,HARD,2,79.22842857142857
+Monaco Grand Prix,ALB,Williams,9.0,2.0,Lapped,MEDIUM,2,79.54884210526315
+Monaco Grand Prix,SAI,Williams,10.0,1.0,Lapped,HARD,2,79.59309210526315
+Spanish Grand Prix,PIA,McLaren,1.0,25.0,Finished,SOFT,3,84.50568181818181
+Spanish Grand Prix,NOR,McLaren,2.0,18.0,Finished,SOFT,3,84.54312121212122
+Spanish Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,3,84.6640909090909
+Spanish Grand Prix,RUS,Mercedes,4.0,12.0,Finished,SOFT,3,84.67778787878788
+Spanish Grand Prix,HUL,Kick Sauber,5.0,10.0,Finished,MEDIUM,3,84.71246969696969
+Spanish Grand Prix,HAM,Ferrari,6.0,8.0,Finished,SOFT,3,84.74065151515151
+Spanish Grand Prix,HAD,Racing Bulls,7.0,6.0,Finished,SOFT,3,84.7484393939394
+Spanish Grand Prix,GAS,Alpine,8.0,4.0,Finished,SOFT,3,84.7766212121212
+Spanish Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,SOFT,3,84.83240909090908
+Spanish Grand Prix,VER,Red Bull Racing,10.0,1.0,Finished,SOFT,4,84.68486363636364
+Canadian Grand Prix,RUS,Mercedes,1.0,25.0,Finished,HARD,5,78.7526857142857
+Canadian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,5,78.75594285714286
+Canadian Grand Prix,ANT,Mercedes,3.0,15.0,Finished,HARD,5,78.76717142857142
+Canadian Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,5,78.78281428571428
+Canadian Grand Prix,LEC,Ferrari,5.0,10.0,Finished,HARD,5,78.80185714285714
+Canadian Grand Prix,HAM,Ferrari,6.0,8.0,Finished,HARD,5,78.90572857142858
+Canadian Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,HARD,6,78.90942857142858
+Canadian Grand Prix,HUL,Kick Sauber,8.0,4.0,Finished,HARD,5,78.97217142857143
+Canadian Grand Prix,OCO,Haas F1 Team,9.0,2.0,Lapped,HARD,4,79.9153768115942
+Canadian Grand Prix,SAI,Williams,10.0,1.0,Lapped,HARD,4,79.92136231884058
+Austrian Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,2,71.82418571428572
+Austrian Grand Prix,PIA,McLaren,2.0,18.0,Finished,MEDIUM,2,71.86268571428573
+Austrian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,2,72.10732857142855
+Austrian Grand Prix,HAM,Ferrari,4.0,12.0,Finished,MEDIUM,2,72.23875714285715
+Austrian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,2,72.71555714285714
+Austrian Grand Prix,LAW,Racing Bulls,6.0,8.0,Finished,HARD,1,72.7921
+Austrian Grand Prix,ALO,Aston Martin,7.0,6.0,Lapped,HARD,1,72.8859420289855
+Austrian Grand Prix,BOR,Kick Sauber,8.0,4.0,Lapped,MEDIUM,2,72.89340579710145
+Austrian Grand Prix,HUL,Kick Sauber,9.0,2.0,Lapped,MEDIUM,2,72.977
+Austrian Grand Prix,OCO,Haas F1 Team,10.0,1.0,Lapped,HARD,2,73.00984057971014
+British Grand Prix,NOR,McLaren,1.0,25.0,Finished,INTERMEDIATE,2,105.54921739130432
+British Grand Prix,PIA,McLaren,2.0,18.0,Finished,INTERMEDIATE,2,105.34128260869566
+British Grand Prix,HUL,Kick Sauber,3.0,15.0,Finished,INTERMEDIATE,2,106.56926086956523
+British Grand Prix,HAM,Ferrari,4.0,12.0,Finished,INTERMEDIATE,2,107.64827659574468
+British Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,INTERMEDIATE,2,106.58663043478262
+British Grand Prix,GAS,Alpine,6.0,8.0,Finished,INTERMEDIATE,2,108.0542340425532
+British Grand Prix,STR,Aston Martin,7.0,6.0,Finished,INTERMEDIATE,3,107.02754347826088
+British Grand Prix,ALB,Williams,8.0,4.0,Finished,INTERMEDIATE,2,108.29774468085108
+British Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,INTERMEDIATE,2,108.271
+British Grand Prix,RUS,Mercedes,10.0,1.0,Finished,INTERMEDIATE,3,108.3419574468085
+Belgian Grand Prix,PIA,McLaren,1.0,25.0,Finished,MEDIUM,2,112.06253658536586
+Belgian Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,2,112.13146341463413
+Belgian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,2,112.61043902439023
+Belgian Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,112.67973170731706
+Belgian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,2,113.06241463414632
+Belgian Grand Prix,ALB,Williams,6.0,8.0,Finished,MEDIUM,2,113.1410731707317
+Belgian Grand Prix,HAM,Ferrari,7.0,6.0,Finished,MEDIUM,2,113.51165853658537
+Belgian Grand Prix,LAW,Racing Bulls,8.0,4.0,Finished,MEDIUM,2,113.55585365853659
+Belgian Grand Prix,BOR,Kick Sauber,9.0,2.0,Finished,MEDIUM,2,113.66592682926832
+Belgian Grand Prix,GAS,Alpine,10.0,1.0,Finished,MEDIUM,2,114.14143902439022
+Hungarian Grand Prix,NOR,McLaren,1.0,25.0,Finished,HARD,1,81.73187142857144
+Hungarian Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,2,81.74184285714284
+Hungarian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,2,82.04495714285714
+Hungarian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,82.26844285714286
+Hungarian Grand Prix,ALO,Aston Martin,5.0,10.0,Finished,MEDIUM,1,82.57530000000001
+Hungarian Grand Prix,BOR,Kick Sauber,6.0,8.0,Finished,MEDIUM,1,82.67714285714285
+Hungarian Grand Prix,STR,Aston Martin,7.0,6.0,Finished,MEDIUM,1,82.70578571428571
+Hungarian Grand Prix,LAW,Racing Bulls,8.0,4.0,Finished,MEDIUM,1,82.72402857142856
+Hungarian Grand Prix,VER,Red Bull Racing,9.0,2.0,Finished,HARD,2,82.76965714285714
+Hungarian Grand Prix,ANT,Mercedes,10.0,1.0,Lapped,HARD,1,83.02724637681159
+Dutch Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,2,82.08123611111111
+Dutch Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,SOFT,2,82.0988888888889
+Dutch Grand Prix,HAD,Racing Bulls,3.0,15.0,Finished,HARD,2,82.12613888888889
+Dutch Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,2,82.15976388888889
+Dutch Grand Prix,ALB,Williams,5.0,10.0,Finished,HARD,2,82.16911111111112
+Dutch Grand Prix,BEA,Haas F1 Team,6.0,8.0,Finished,HARD,2,82.20684722222222
+Dutch Grand Prix,STR,Aston Martin,7.0,6.0,Finished,HARD,2,82.21313888888888
+Dutch Grand Prix,ALO,Aston Martin,8.0,4.0,Finished,HARD,2,82.2438611111111
+Dutch Grand Prix,TSU,Red Bull Racing,9.0,2.0,Finished,SOFT,2,82.27008333333333
+Dutch Grand Prix,OCO,Haas F1 Team,10.0,1.0,Finished,HARD,1,82.27655555555556
+Italian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,1,83.10047169811321
+Italian Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,1,83.46286792452828
+Italian Grand Prix,PIA,McLaren,3.0,15.0,Finished,MEDIUM,1,83.503320754717
+Italian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,1,83.58394339622639
+Italian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,1,83.7208679245283
+Italian Grand Prix,HAM,Ferrari,6.0,8.0,Finished,MEDIUM,1,83.80705660377359
+Italian Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,84.054
+Italian Grand Prix,BOR,Kick Sauber,8.0,4.0,Finished,HARD,1,84.2039433962264
+Italian Grand Prix,ANT,Mercedes,9.0,2.0,Finished,MEDIUM,1,84.13371698113208
+Italian Grand Prix,HAD,Racing Bulls,10.0,1.0,Finished,HARD,2,84.30596226415093
+Azerbaijan Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,106.05877083333331
+Azerbaijan Grand Prix,RUS,Mercedes,2.0,18.0,Finished,HARD,1,106.45656250000002
+Azerbaijan Grand Prix,SAI,Williams,3.0,15.0,Finished,MEDIUM,1,106.46104166666665
+Azerbaijan Grand Prix,ANT,Mercedes,4.0,12.0,Finished,HARD,1,106.56822916666665
+Azerbaijan Grand Prix,LAW,Racing Bulls,5.0,10.0,Finished,HARD,1,106.78754166666668
+Azerbaijan Grand Prix,TSU,Red Bull Racing,6.0,8.0,Finished,HARD,1,106.92245833333332
+Azerbaijan Grand Prix,NOR,McLaren,7.0,6.0,Finished,MEDIUM,1,106.97414583333334
+Azerbaijan Grand Prix,HAM,Ferrari,8.0,4.0,Finished,HARD,1,107.092625
+Azerbaijan Grand Prix,LEC,Ferrari,9.0,2.0,Finished,HARD,1,107.07568750000002
+Azerbaijan Grand Prix,HAD,Racing Bulls,10.0,1.0,Finished,MEDIUM,1,107.08029166666667
+Singapore Grand Prix,RUS,Mercedes,1.0,25.0,Finished,HARD,1,97.13495161290321
+Singapore Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,97.22253225806452
+Singapore Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,1,97.23279032258066
+Singapore Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,1,97.26633870967741
+Singapore Grand Prix,ANT,Mercedes,5.0,10.0,Finished,HARD,1,97.6781935483871
+Singapore Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,1,97.87682258064515
+Singapore Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,MEDIUM,1,98.43603225806451
+Singapore Grand Prix,HAM,Ferrari,8.0,4.0,Finished,MEDIUM,2,98.42932258064515
+Singapore Grand Prix,BEA,Haas F1 Team,9.0,2.0,Finished,HARD,1,98.64345161290323
+Singapore Grand Prix,SAI,Williams,10.0,1.0,Lapped,MEDIUM,1,98.90362295081967
+United States Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,1,100.71716071428571
+United States Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,1,100.85928571428572
+United States Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,1,100.99167857142858
+United States Grand Prix,HAM,Ferrari,4.0,12.0,Finished,MEDIUM,1,101.22673214285714
+United States Grand Prix,PIA,McLaren,5.0,10.0,Finished,MEDIUM,1,101.247125
+United States Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,1,101.31458928571429
+United States Grand Prix,TSU,Red Bull Racing,7.0,6.0,Finished,MEDIUM,1,101.65848214285714
+United States Grand Prix,HUL,Kick Sauber,8.0,4.0,Finished,MEDIUM,1,101.73946428571428
+United States Grand Prix,BEA,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,101.87291071428571
+United States Grand Prix,ALO,Aston Martin,10.0,1.0,Finished,MEDIUM,1,101.96717857142858
+Mexico City Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,1,82.79681690140843
+Mexico City Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,1,83.22391549295774
+Mexico City Grand Prix,VER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,1,83.23412676056334
+Mexico City Grand Prix,BEA,Haas F1 Team,4.0,12.0,Finished,SOFT,2,83.37364788732394
+Mexico City Grand Prix,PIA,McLaren,5.0,10.0,Finished,SOFT,2,83.38928169014083
+Mexico City Grand Prix,ANT,Mercedes,6.0,8.0,Finished,SOFT,2,83.47057746478873
+Mexico City Grand Prix,RUS,Mercedes,7.0,6.0,Finished,SOFT,2,83.50508450704224
+Mexico City Grand Prix,HAM,Ferrari,8.0,4.0,Finished,SOFT,2,83.5918309859155
+Mexico City Grand Prix,OCO,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,83.85969014084505
+Mexico City Grand Prix,BOR,Kick Sauber,10.0,1.0,Finished,MEDIUM,1,83.87939436619718
+São Paulo Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,2,77.76895774647886
+São Paulo Grand Prix,ANT,Mercedes,2.0,18.0,Finished,MEDIUM,2,77.9152676056338
+São Paulo Grand Prix,VER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,4,77.92036619718309
+São Paulo Grand Prix,RUS,Mercedes,4.0,12.0,Finished,MEDIUM,2,77.98398591549297
+São Paulo Grand Prix,PIA,McLaren,5.0,10.0,Finished,MEDIUM,2,77.99077464788732
+São Paulo Grand Prix,BEA,Haas F1 Team,6.0,8.0,Finished,MEDIUM,2,78.18628169014086
+São Paulo Grand Prix,LAW,Racing Bulls,7.0,6.0,Finished,MEDIUM,1,78.51039436619719
+São Paulo Grand Prix,HAD,Racing Bulls,8.0,4.0,Finished,MEDIUM,2,78.51364788732393
+São Paulo Grand Prix,HUL,Kick Sauber,9.0,2.0,Finished,MEDIUM,1,78.52000000000001
+São Paulo Grand Prix,GAS,Alpine,10.0,1.0,Finished,MEDIUM,2,78.52830985915496
+Las Vegas Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,97.36857999999998
+Las Vegas Grand Prix,RUS,Mercedes,2.0,18.0,Finished,HARD,1,97.83949999999999
+Las Vegas Grand Prix,ANT,Mercedes,3.0,15.0,Finished,HARD,1,97.87834000000002
+Las Vegas Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,97.98214
+Las Vegas Grand Prix,SAI,Williams,5.0,10.0,Finished,HARD,1,98.06706
+Las Vegas Grand Prix,HAD,Racing Bulls,6.0,8.0,Finished,HARD,1,98.27372
+Las Vegas Grand Prix,HUL,Kick Sauber,7.0,6.0,Finished,HARD,1,98.39126
+Las Vegas Grand Prix,HAM,Ferrari,8.0,4.0,Finished,HARD,1,98.55596
+Las Vegas Grand Prix,OCO,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,98.58128
+Las Vegas Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,HARD,1,98.77956
+Qatar Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,89.09194736842105
+Qatar Grand Prix,PIA,McLaren,2.0,18.0,Finished,MEDIUM,2,89.2322105263158
+Qatar Grand Prix,SAI,Williams,3.0,15.0,Finished,MEDIUM,2,89.48957894736841
+Qatar Grand Prix,NOR,McLaren,4.0,12.0,Finished,MEDIUM,2,89.50098245614035
+Qatar Grand Prix,ANT,Mercedes,5.0,10.0,Finished,MEDIUM,2,89.58873684210526
+Qatar Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,2,89.94456140350879
+Qatar Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,MEDIUM,2,90.04010526315788
+Qatar Grand Prix,LEC,Ferrari,8.0,4.0,Finished,MEDIUM,2,90.0881754385965
+Qatar Grand Prix,LAW,Racing Bulls,9.0,2.0,Finished,MEDIUM,2,90.14585964912281
+Qatar Grand Prix,TSU,Red Bull Racing,10.0,1.0,Finished,MEDIUM,2,90.17563157894736
+Abu Dhabi Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,89.09429310344828
+Abu Dhabi Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,1,89.31143103448277
+Abu Dhabi Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,2,89.3800172413793
+Abu Dhabi Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,89.49565517241379
+Abu Dhabi Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,89.93158620689655
+Abu Dhabi Grand Prix,ALO,Aston Martin,6.0,8.0,Finished,HARD,1,90.2591551724138
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,7.0,6.0,Finished,HARD,1,90.29905172413794
+Abu Dhabi Grand Prix,HAM,Ferrari,8.0,4.0,Finished,MEDIUM,2,90.34722413793104
+Abu Dhabi Grand Prix,HUL,Kick Sauber,9.0,2.0,Finished,HARD,2,90.45660344827587
+Abu Dhabi Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,1,90.3791724137931

@@ -1,0 +1,1141 @@
+season,grand_prix,driver,team,position,points,status,tire_compound,pit_stops,avg_lap_time
+2021,Bahrain Grand Prix,HAM,Mercedes,1.0,25.0,Finished,HARD,2,97.5862
+2021,Bahrain Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,2,97.57529090909092
+2021,Bahrain Grand Prix,BOT,Mercedes,3.0,16.0,Finished,HARD,3,98.31056363636364
+2021,Bahrain Grand Prix,NOR,McLaren,4.0,12.0,Finished,HARD,2,98.51447272727273
+2021,Bahrain Grand Prix,PER,Red Bull Racing,5.0,10.0,Finished,MEDIUM,4,99.57042857142856
+2021,Bahrain Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,2,98.68725454545455
+2021,Bahrain Grand Prix,RIC,McLaren,7.0,6.0,Finished,HARD,2,98.8882909090909
+2021,Bahrain Grand Prix,SAI,Ferrari,8.0,4.0,Finished,MEDIUM,2,99.83923214285713
+2021,Bahrain Grand Prix,TSU,AlphaTauri,9.0,2.0,Finished,HARD,2,100.17123214285714
+2021,Bahrain Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,2,100.1894642857143
+2021,Emilia Romagna Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,90.02996774193551
+2021,Emilia Romagna Grand Prix,HAM,Mercedes,2.0,19.0,Finished,MEDIUM,4,89.36118644067795
+2021,Emilia Romagna Grand Prix,NOR,McLaren,3.0,15.0,Finished,SOFT,2,91.26569354838708
+2021,Emilia Romagna Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,90.71095161290323
+2021,Emilia Romagna Grand Prix,SAI,Ferrari,5.0,10.0,Finished,MEDIUM,2,91.44651612903226
+2021,Emilia Romagna Grand Prix,RIC,McLaren,6.0,8.0,Finished,SOFT,2,92.0069193548387
+2021,Emilia Romagna Grand Prix,GAS,AlphaTauri,7.0,6.0,Finished,MEDIUM,4,93.36167213114753
+2021,Emilia Romagna Grand Prix,STR,Aston Martin,8.0,4.0,Finished,MEDIUM,3,92.33852459016396
+2021,Emilia Romagna Grand Prix,OCO,Alpine,9.0,2.0,Finished,MEDIUM,5,92.04260000000001
+2021,Emilia Romagna Grand Prix,ALO,Alpine,10.0,1.0,Finished,MEDIUM,3,92.93013114754098
+2021,Portuguese Grand Prix,HAM,Mercedes,1.0,25.0,Finished,MEDIUM,3,85.93062121212122
+2021,Portuguese Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,4,86.37225757575757
+2021,Portuguese Grand Prix,BOT,Mercedes,3.0,16.0,Finished,MEDIUM,4,86.43865151515152
+2021,Portuguese Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,3,86.53266666666667
+2021,Portuguese Grand Prix,NOR,McLaren,5.0,10.0,Finished,MEDIUM,3,86.70893939393939
+2021,Portuguese Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,3,86.77578787878788
+2021,Portuguese Grand Prix,OCO,Alpine,7.0,6.0,Finished,HARD,3,86.89651515151515
+2021,Portuguese Grand Prix,ALO,Alpine,8.0,4.0,Finished,MEDIUM,3,86.91256060606061
+2021,Portuguese Grand Prix,RIC,McLaren,9.0,2.0,Finished,MEDIUM,3,87.07257575757576
+2021,Portuguese Grand Prix,GAS,AlphaTauri,10.0,1.0,Finished,MEDIUM,3,87.08915151515151
+2021,Spanish Grand Prix,HAM,Mercedes,1.0,25.0,Finished,MEDIUM,2,84.66181818181818
+2021,Spanish Grand Prix,VER,Red Bull Racing,2.0,19.0,Finished,MEDIUM,2,84.90183333333333
+2021,Spanish Grand Prix,BOT,Mercedes,3.0,15.0,Finished,SOFT,2,85.06500000000001
+2021,Spanish Grand Prix,LEC,Ferrari,4.0,12.0,Finished,SOFT,2,85.48933333333333
+2021,Spanish Grand Prix,PER,Red Bull Racing,5.0,10.0,Finished,SOFT,2,85.62653030303031
+2021,Spanish Grand Prix,RIC,McLaren,6.0,8.0,Finished,SOFT,2,85.77951515151514
+2021,Spanish Grand Prix,SAI,Ferrari,7.0,6.0,Finished,SOFT,2,85.79318181818182
+2021,Spanish Grand Prix,NOR,McLaren,8.0,4.0,+1 Lap,SOFT,2,86.34253846153847
+2021,Spanish Grand Prix,OCO,Alpine,9.0,2.0,+1 Lap,MEDIUM,1,86.55755384615385
+2021,Spanish Grand Prix,GAS,AlphaTauri,10.0,1.0,+1 Lap,SOFT,2,86.56047692307693
+2021,Monaco Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,76.11307692307693
+2021,Monaco Grand Prix,SAI,Ferrari,2.0,18.0,Finished,HARD,1,76.22805128205128
+2021,Monaco Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,1,76.36214102564102
+2021,Monaco Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,HARD,1,76.37576923076924
+2021,Monaco Grand Prix,VET,Aston Martin,5.0,10.0,Finished,HARD,1,76.78732051282051
+2021,Monaco Grand Prix,GAS,AlphaTauri,6.0,8.0,Finished,HARD,1,76.80405128205128
+2021,Monaco Grand Prix,HAM,Mercedes,7.0,7.0,Finished,SOFT,2,76.98783333333334
+2021,Monaco Grand Prix,STR,Aston Martin,8.0,4.0,+1 Lap,HARD,1,77.16879220779221
+2021,Monaco Grand Prix,OCO,Alpine,9.0,2.0,+1 Lap,MEDIUM,1,77.64812987012986
+2021,Monaco Grand Prix,GIO,Alfa Romeo Racing,10.0,1.0,+1 Lap,HARD,1,77.65353246753247
+2021,Azerbaijan Grand Prix,PER,Red Bull Racing,1.0,25.0,Finished,HARD,3,108.29547727272728
+2021,Azerbaijan Grand Prix,VET,Aston Martin,2.0,18.0,Finished,HARD,3,109.01661363636366
+2021,Azerbaijan Grand Prix,GAS,AlphaTauri,3.0,15.0,Finished,HARD,3,108.98313636363636
+2021,Azerbaijan Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,3,109.1019090909091
+2021,Azerbaijan Grand Prix,NOR,McLaren,5.0,10.0,Finished,HARD,3,109.60720454545454
+2021,Azerbaijan Grand Prix,ALO,Alpine,6.0,8.0,Finished,HARD,4,112.0396739130435
+2021,Azerbaijan Grand Prix,TSU,AlphaTauri,7.0,6.0,Finished,HARD,3,109.30702272727272
+2021,Azerbaijan Grand Prix,SAI,Ferrari,8.0,4.0,Finished,HARD,3,110.06727272727272
+2021,Azerbaijan Grand Prix,RIC,McLaren,9.0,2.0,Finished,HARD,3,110.86342222222223
+2021,Azerbaijan Grand Prix,RAI,Alfa Romeo Racing,10.0,1.0,Finished,HARD,3,112.14832608695653
+2021,French Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,2,98.97679245283018
+2021,French Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,1,99.03158490566038
+2021,French Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,HARD,1,99.14303773584909
+2021,French Grand Prix,BOT,Mercedes,4.0,12.0,Finished,HARD,1,99.25260377358488
+2021,French Grand Prix,NOR,McLaren,5.0,10.0,Finished,HARD,1,100.18494339622642
+2021,French Grand Prix,RIC,McLaren,6.0,8.0,Finished,HARD,1,100.40805660377359
+2021,French Grand Prix,GAS,AlphaTauri,7.0,6.0,Finished,HARD,1,100.42199999999998
+2021,French Grand Prix,ALO,Alpine,8.0,4.0,Finished,HARD,1,100.44273584905662
+2021,French Grand Prix,VET,Aston Martin,9.0,2.0,Finished,HARD,1,100.47992452830188
+2021,French Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,1,100.71162264150946
+2021,Styrian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,69.562323943662
+2021,Styrian Grand Prix,HAM,Mercedes,2.0,19.0,Finished,HARD,2,70.06574647887324
+2021,Styrian Grand Prix,BOT,Mercedes,3.0,15.0,Finished,HARD,1,70.22298591549296
+2021,Styrian Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,HARD,2,70.23040845070423
+2021,Styrian Grand Prix,NOR,McLaren,5.0,10.0,+1 Lap,HARD,1,70.63258571428572
+2021,Styrian Grand Prix,SAI,Ferrari,6.0,8.0,+1 Lap,MEDIUM,1,70.73204285714286
+2021,Styrian Grand Prix,LEC,Ferrari,7.0,6.0,+1 Lap,HARD,2,70.91081428571428
+2021,Styrian Grand Prix,STR,Aston Martin,8.0,4.0,+1 Lap,HARD,1,72.19070588235296
+2021,Styrian Grand Prix,ALO,Alpine,9.0,2.0,+1 Lap,HARD,1,71.14427142857143
+2021,Styrian Grand Prix,TSU,AlphaTauri,10.0,1.0,+1 Lap,HARD,1,71.1539142857143
+2021,Austrian Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,HARD,2,70.90905633802818
+2021,Austrian Grand Prix,BOT,Mercedes,2.0,18.0,Finished,HARD,1,71.16219718309857
+2021,Austrian Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,1,71.19101408450705
+2021,Austrian Grand Prix,HAM,Mercedes,4.0,12.0,Finished,HARD,2,71.56330985915491
+2021,Austrian Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,71.71390140845071
+2021,Austrian Grand Prix,PER,Red Bull Racing,6.0,8.0,Finished,HARD,1,71.58391549295773
+2021,Austrian Grand Prix,RIC,McLaren,7.0,6.0,Finished,HARD,1,71.75969014084508
+2021,Austrian Grand Prix,LEC,Ferrari,8.0,4.0,Finished,HARD,1,71.77095774647887
+2021,Austrian Grand Prix,GAS,AlphaTauri,9.0,2.0,Finished,HARD,2,71.7800985915493
+2021,Austrian Grand Prix,ALO,Alpine,10.0,1.0,+1 Lap,HARD,1,72.07981428571428
+2021,British Grand Prix,HAM,Mercedes,1.0,25.0,Finished,MEDIUM,2,93.03512244897958
+2021,British Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,2,93.07944897959183
+2021,British Grand Prix,BOT,Mercedes,3.0,15.0,Finished,HARD,2,93.23591836734694
+2021,British Grand Prix,NOR,McLaren,4.0,12.0,Finished,HARD,2,93.65691836734693
+2021,British Grand Prix,RIC,McLaren,5.0,10.0,Finished,HARD,2,93.9225306122449
+2021,British Grand Prix,SAI,Ferrari,6.0,8.0,Finished,MEDIUM,2,94.96721999999998
+2021,British Grand Prix,ALO,Alpine,7.0,6.0,Finished,HARD,2,95.56702
+2021,British Grand Prix,STR,Aston Martin,8.0,4.0,Finished,HARD,2,95.45263999999997
+2021,British Grand Prix,OCO,Alpine,9.0,2.0,Finished,HARD,2,95.52948
+2021,British Grand Prix,TSU,AlphaTauri,10.0,1.0,Finished,MEDIUM,2,95.44431999999999
+2021,Hungarian Grand Prix,OCO,Alpine,1.0,25.0,Finished,MEDIUM,3,84.15729411764707
+2021,Hungarian Grand Prix,HAM,Mercedes,2.0,18.0,Finished,MEDIUM,4,83.97120588235293
+2021,Hungarian Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,3,84.40711764705883
+2021,Hungarian Grand Prix,ALO,Alpine,4.0,12.0,Finished,MEDIUM,3,84.37027941176473
+2021,Hungarian Grand Prix,GAS,AlphaTauri,5.0,11.0,Finished,HARD,4,85.1420294117647
+2021,Hungarian Grand Prix,TSU,AlphaTauri,6.0,8.0,Finished,HARD,3,85.31864705882356
+2021,Hungarian Grand Prix,LAT,Williams,7.0,6.0,Finished,HARD,3,85.35536764705884
+2021,Hungarian Grand Prix,RUS,Williams,8.0,4.0,Finished,HARD,3,85.31989705882354
+2021,Hungarian Grand Prix,VER,Red Bull Racing,9.0,2.0,Finished,MEDIUM,5,85.29720588235296
+2021,Hungarian Grand Prix,RAI,Alfa Romeo Racing,10.0,1.0,+1 Lap,HARD,4,85.67376119402985
+2021,Belgian Grand Prix,VER,Red Bull Racing,1.0,12.5,Finished,UNKNOWN,1,207.071
+2021,Belgian Grand Prix,RUS,Williams,2.0,9.0,Finished,UNKNOWN,1,209.066
+2021,Belgian Grand Prix,HAM,Mercedes,3.0,7.5,Finished,UNKNOWN,1,209.672
+2021,Belgian Grand Prix,RIC,McLaren,4.0,6.0,Finished,UNKNOWN,1,211.567
+2021,Belgian Grand Prix,VET,Aston Martin,5.0,5.0,Finished,UNKNOWN,1,214.55
+2021,Belgian Grand Prix,GAS,AlphaTauri,6.0,4.0,Finished,UNKNOWN,1,217.248
+2021,Belgian Grand Prix,OCO,Alpine,7.0,3.0,Finished,UNKNOWN,1,218.65
+2021,Belgian Grand Prix,LEC,Ferrari,8.0,2.0,Finished,UNKNOWN,1,219.679
+2021,Belgian Grand Prix,LAT,Williams,9.0,1.0,Finished,UNKNOWN,1,222.556
+2021,Belgian Grand Prix,SAI,Ferrari,10.0,0.5,Finished,UNKNOWN,1,223.237
+2021,Dutch Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,75.07493055555557
+2021,Dutch Grand Prix,HAM,Mercedes,2.0,19.0,Finished,MEDIUM,3,75.3656527777778
+2021,Dutch Grand Prix,BOT,Mercedes,3.0,15.0,Finished,MEDIUM,2,75.85909722222222
+2021,Dutch Grand Prix,GAS,AlphaTauri,4.0,12.0,+1 Lap,MEDIUM,1,76.29835211267607
+2021,Dutch Grand Prix,LEC,Ferrari,5.0,10.0,+1 Lap,HARD,1,76.36866197183097
+2021,Dutch Grand Prix,ALO,Alpine,6.0,8.0,+1 Lap,MEDIUM,1,76.77273239436619
+2021,Dutch Grand Prix,SAI,Ferrari,7.0,6.0,+1 Lap,HARD,1,76.80135211267607
+2021,Dutch Grand Prix,PER,Red Bull Racing,8.0,4.0,+1 Lap,MEDIUM,3,76.80956338028169
+2021,Dutch Grand Prix,OCO,Alpine,9.0,2.0,+1 Lap,MEDIUM,1,76.82345070422537
+2021,Dutch Grand Prix,NOR,McLaren,10.0,1.0,+1 Lap,MEDIUM,1,76.86936619718311
+2021,Italian Grand Prix,RIC,McLaren,1.0,26.0,Finished,HARD,1,87.77742857142856
+2021,Italian Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,89.1795
+2021,Italian Grand Prix,BOT,Mercedes,3.0,15.0,Finished,MEDIUM,1,90.38331372549021
+2021,Italian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,87.71097959183673
+2021,Italian Grand Prix,PER,Red Bull Racing,5.0,10.0,Finished,HARD,1,90.14727450980395
+2021,Italian Grand Prix,SAI,Ferrari,6.0,8.0,Finished,HARD,1,90.48729411764705
+2021,Italian Grand Prix,STR,Aston Martin,7.0,6.0,Finished,HARD,1,90.61945098039217
+2021,Italian Grand Prix,ALO,Alpine,8.0,4.0,Finished,HARD,1,90.6776862745098
+2021,Italian Grand Prix,RUS,Williams,9.0,2.0,Finished,HARD,1,90.68282352941176
+2021,Italian Grand Prix,OCO,Alpine,10.0,1.0,Finished,HARD,1,90.69015686274508
+2021,Russian Grand Prix,HAM,Mercedes,1.0,25.0,Finished,MEDIUM,2,102.66039622641509
+2021,Russian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,2,103.66550943396226
+2021,Russian Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,2,103.83916981132073
+2021,Russian Grand Prix,RIC,McLaren,4.0,12.0,Finished,HARD,2,103.8982641509434
+2021,Russian Grand Prix,BOT,Mercedes,5.0,10.0,Finished,HARD,2,103.9346037735849
+2021,Russian Grand Prix,ALO,Alpine,6.0,8.0,Finished,HARD,2,104.19475471698114
+2021,Russian Grand Prix,NOR,McLaren,7.0,7.0,Finished,MEDIUM,2,102.63738461538463
+2021,Russian Grand Prix,RAI,Alfa Romeo Racing,8.0,4.0,Finished,HARD,2,104.33879245283019
+2021,Russian Grand Prix,PER,Red Bull Racing,9.0,2.0,Finished,HARD,2,104.35994339622644
+2021,Russian Grand Prix,RUS,Williams,10.0,1.0,Finished,HARD,2,104.55758490566039
+2021,Turkish Grand Prix,BOT,Mercedes,1.0,26.0,Finished,INTERMEDIATE,1,94.20867241379311
+2021,Turkish Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,INTERMEDIATE,1,94.46012068965517
+2021,Turkish Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,INTERMEDIATE,1,94.78575862068965
+2021,Turkish Grand Prix,LEC,Ferrari,4.0,12.0,Finished,INTERMEDIATE,1,94.86063793103447
+2021,Turkish Grand Prix,HAM,Mercedes,5.0,10.0,Finished,INTERMEDIATE,1,94.92956896551726
+2021,Turkish Grand Prix,GAS,AlphaTauri,6.0,8.0,Finished,INTERMEDIATE,1,94.97232758620689
+2021,Turkish Grand Prix,NOR,McLaren,7.0,6.0,Finished,INTERMEDIATE,1,95.02268965517241
+2021,Turkish Grand Prix,SAI,Ferrari,8.0,4.0,Finished,INTERMEDIATE,1,95.09705172413794
+2021,Turkish Grand Prix,STR,Aston Martin,9.0,2.0,Finished,INTERMEDIATE,1,95.62277586206898
+2021,Turkish Grand Prix,OCO,Alpine,10.0,1.0,+1 Lap,INTERMEDIATE,0,96.04977192982456
+2021,United States Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,101.36699999999999
+2021,United States Grand Prix,HAM,Mercedes,2.0,19.0,Finished,HARD,2,101.39080357142858
+2021,United States Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,2,102.12098214285716
+2021,United States Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,102.2999642857143
+2021,United States Grand Prix,RIC,McLaren,5.0,10.0,Finished,HARD,2,102.73939285714285
+2021,United States Grand Prix,BOT,Mercedes,6.0,8.0,Finished,HARD,2,102.79785714285715
+2021,United States Grand Prix,SAI,Ferrari,7.0,6.0,Finished,HARD,2,102.85887500000001
+2021,United States Grand Prix,NOR,McLaren,8.0,4.0,Finished,HARD,2,102.87405357142858
+2021,United States Grand Prix,TSU,AlphaTauri,9.0,2.0,+1 Lap,HARD,2,103.81965454545455
+2021,United States Grand Prix,VET,Aston Martin,10.0,1.0,+1 Lap,MEDIUM,2,103.85670909090909
+2021,Mexico City Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,83.36740845070423
+2021,Mexico City Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,1,83.60057746478874
+2021,Mexico City Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,1,83.61743661971829
+2021,Mexico City Grand Prix,GAS,AlphaTauri,4.0,12.0,Finished,HARD,1,84.26663380281691
+2021,Mexico City Grand Prix,LEC,Ferrari,5.0,10.0,Finished,HARD,1,84.50877464788732
+2021,Mexico City Grand Prix,SAI,Ferrari,6.0,8.0,+1 Lap,MEDIUM,1,84.5930857142857
+2021,Mexico City Grand Prix,VET,Aston Martin,7.0,6.0,+1 Lap,HARD,1,84.70205714285713
+2021,Mexico City Grand Prix,RAI,Alfa Romeo Racing,8.0,4.0,+1 Lap,HARD,1,84.77492857142857
+2021,Mexico City Grand Prix,ALO,Alpine,9.0,2.0,+1 Lap,MEDIUM,1,84.89678571428573
+2021,Mexico City Grand Prix,NOR,McLaren,10.0,1.0,+1 Lap,MEDIUM,1,84.93302857142858
+2021,São Paulo Grand Prix,HAM,Mercedes,1.0,25.0,Finished,HARD,4,78.06832394366197
+2021,São Paulo Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,4,78.21615492957746
+2021,São Paulo Grand Prix,BOT,Mercedes,3.0,15.0,Finished,HARD,4,78.25953521126762
+2021,São Paulo Grand Prix,PER,Red Bull Racing,4.0,13.0,Finished,HARD,5,78.63085915492957
+2021,São Paulo Grand Prix,LEC,Ferrari,5.0,10.0,Finished,MEDIUM,4,78.76574647887324
+2021,São Paulo Grand Prix,SAI,Ferrari,6.0,8.0,Finished,MEDIUM,4,78.79818309859156
+2021,São Paulo Grand Prix,GAS,AlphaTauri,7.0,6.0,+1 Lap,HARD,4,79.24347142857143
+2021,São Paulo Grand Prix,OCO,Alpine,8.0,4.0,+1 Lap,HARD,3,79.4767
+2021,São Paulo Grand Prix,ALO,Alpine,9.0,2.0,+1 Lap,HARD,3,79.4837142857143
+2021,São Paulo Grand Prix,NOR,McLaren,10.0,1.0,+1 Lap,HARD,5,79.52652857142857
+2021,Qatar Grand Prix,HAM,Mercedes,1.0,25.0,Finished,MEDIUM,2,88.92054385964913
+2021,Qatar Grand Prix,VER,Red Bull Racing,2.0,19.0,Finished,MEDIUM,3,89.37217543859649
+2021,Qatar Grand Prix,ALO,Alpine,3.0,15.0,Finished,HARD,1,89.96364912280701
+2021,Qatar Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,90.01363157894735
+2021,Qatar Grand Prix,OCO,Alpine,5.0,10.0,Finished,HARD,1,90.33405263157896
+2021,Qatar Grand Prix,STR,Aston Martin,6.0,8.0,Finished,HARD,1,90.34640350877193
+2021,Qatar Grand Prix,SAI,Ferrari,7.0,6.0,Finished,HARD,1,90.35757894736841
+2021,Qatar Grand Prix,LEC,Ferrari,8.0,4.0,Finished,HARD,1,90.3788947368421
+2021,Qatar Grand Prix,NOR,McLaren,9.0,2.0,+1 Lap,SOFT,2,90.52117857142856
+2021,Qatar Grand Prix,VET,Aston Martin,10.0,1.0,+1 Lap,MEDIUM,1,90.60833928571427
+2021,Saudi Arabian Grand Prix,HAM,Mercedes,1.0,26.0,Finished,HARD,3,97.34811627906977
+2021,Saudi Arabian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,2,97.68348837209304
+2021,Saudi Arabian Grand Prix,BOT,Mercedes,3.0,15.0,Finished,MEDIUM,3,99.27225
+2021,Saudi Arabian Grand Prix,OCO,Alpine,4.0,12.0,Finished,HARD,2,98.57027906976744
+2021,Saudi Arabian Grand Prix,RIC,McLaren,5.0,10.0,Finished,MEDIUM,2,98.83997674418605
+2021,Saudi Arabian Grand Prix,GAS,AlphaTauri,6.0,8.0,Finished,HARD,2,99.93597727272727
+2021,Saudi Arabian Grand Prix,LEC,Ferrari,7.0,6.0,Finished,HARD,3,99.61145454545454
+2021,Saudi Arabian Grand Prix,SAI,Ferrari,8.0,4.0,Finished,MEDIUM,2,100.03690909090909
+2021,Saudi Arabian Grand Prix,GIO,Alfa Romeo Racing,9.0,2.0,Finished,HARD,2,100.35797727272728
+2021,Saudi Arabian Grand Prix,NOR,McLaren,10.0,1.0,Finished,HARD,3,99.67572727272727
+2021,Abu Dhabi Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,HARD,3,92.40192982456144
+2021,Abu Dhabi Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,1,92.41259649122807
+2021,Abu Dhabi Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,1,93.4916896551724
+2021,Abu Dhabi Grand Prix,TSU,AlphaTauri,4.0,12.0,Finished,HARD,2,93.50063793103448
+2021,Abu Dhabi Grand Prix,GAS,AlphaTauri,5.0,10.0,Finished,HARD,2,93.51510344827587
+2021,Abu Dhabi Grand Prix,BOT,Mercedes,6.0,8.0,Finished,MEDIUM,1,93.53117241379312
+2021,Abu Dhabi Grand Prix,NOR,McLaren,7.0,6.0,Finished,HARD,2,93.41061403508772
+2021,Abu Dhabi Grand Prix,ALO,Alpine,8.0,4.0,Finished,HARD,1,93.4567192982456
+2021,Abu Dhabi Grand Prix,OCO,Alpine,9.0,2.0,Finished,HARD,1,93.50573684210525
+2021,Abu Dhabi Grand Prix,LEC,Ferrari,10.0,1.0,Finished,MEDIUM,2,93.53885964912281
+2022,Bahrain Grand Prix,LEC,Ferrari,1.0,26.0,Finished,SOFT,3,100.69770909090909
+2022,Bahrain Grand Prix,SAI,Ferrari,2.0,18.0,Finished,SOFT,3,102.79266666666668
+2022,Bahrain Grand Prix,HAM,Mercedes,3.0,15.0,Finished,SOFT,3,102.86419298245615
+2022,Bahrain Grand Prix,RUS,Mercedes,4.0,12.0,Finished,SOFT,3,102.04010714285712
+2022,Bahrain Grand Prix,MAG,Haas F1 Team,5.0,10.0,Finished,SOFT,3,102.95329824561404
+2022,Bahrain Grand Prix,BOT,Alfa Romeo,6.0,8.0,Finished,MEDIUM,3,102.9772456140351
+2022,Bahrain Grand Prix,OCO,Alpine,7.0,6.0,Finished,SOFT,3,103.0352105263158
+2022,Bahrain Grand Prix,TSU,AlphaTauri,8.0,4.0,Finished,SOFT,3,103.05210526315788
+2022,Bahrain Grand Prix,ALO,Alpine,9.0,2.0,Finished,SOFT,3,103.08726315789474
+2022,Bahrain Grand Prix,ZHO,Alfa Romeo,10.0,1.0,Finished,MEDIUM,3,102.16107142857142
+2022,Saudi Arabian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,96.88470212765955
+2022,Saudi Arabian Grand Prix,LEC,Ferrari,2.0,19.0,Finished,HARD,1,96.81834042553193
+2022,Saudi Arabian Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,1,97.14925531914892
+2022,Saudi Arabian Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,HARD,1,97.55534042553191
+2022,Saudi Arabian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,98.0222340425532
+2022,Saudi Arabian Grand Prix,OCO,Alpine,6.0,8.0,Finished,HARD,1,99.02940425531916
+2022,Saudi Arabian Grand Prix,NOR,McLaren,7.0,6.0,Finished,HARD,1,100.10018749999999
+2022,Saudi Arabian Grand Prix,GAS,AlphaTauri,8.0,4.0,Finished,HARD,1,100.23285416666666
+2022,Saudi Arabian Grand Prix,MAG,Haas F1 Team,9.0,2.0,Finished,HARD,1,100.1476875
+2022,Saudi Arabian Grand Prix,HAM,Mercedes,10.0,1.0,Finished,HARD,1,100.37389583333332
+2022,Australian Grand Prix,LEC,Ferrari,1.0,26.0,Finished,HARD,1,88.37974999999999
+2022,Australian Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,HARD,1,90.01012280701755
+2022,Australian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,1,90.06177192982456
+2022,Australian Grand Prix,HAM,Mercedes,4.0,12.0,Finished,HARD,1,90.18107017543859
+2022,Australian Grand Prix,NOR,McLaren,5.0,10.0,Finished,HARD,1,90.65154385964912
+2022,Australian Grand Prix,RIC,McLaren,6.0,8.0,Finished,HARD,1,90.69157894736844
+2022,Australian Grand Prix,OCO,Alpine,7.0,6.0,Finished,HARD,1,91.86605172413793
+2022,Australian Grand Prix,BOT,Alfa Romeo,8.0,4.0,Finished,HARD,1,90.96036842105262
+2022,Australian Grand Prix,GAS,AlphaTauri,9.0,2.0,Finished,HARD,1,91.09535087719297
+2022,Australian Grand Prix,ALB,Williams,10.0,1.0,Finished,HARD,1,92.17120689655172
+2022,Emilia Romagna Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,2,87.74580952380954
+2022,Emilia Romagna Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,2,88.00814285714289
+2022,Emilia Romagna Grand Prix,NOR,McLaren,3.0,15.0,Finished,MEDIUM,1,88.29873015873015
+2022,Emilia Romagna Grand Prix,RUS,Mercedes,4.0,12.0,Finished,MEDIUM,1,88.42050793650795
+2022,Emilia Romagna Grand Prix,BOT,Alfa Romeo,5.0,10.0,Finished,MEDIUM,1,88.43122222222222
+2022,Emilia Romagna Grand Prix,LEC,Ferrari,6.0,8.0,Finished,MEDIUM,3,88.63584126984125
+2022,Emilia Romagna Grand Prix,TSU,AlphaTauri,7.0,6.0,Finished,MEDIUM,1,88.71580952380951
+2022,Emilia Romagna Grand Prix,VET,Aston Martin,8.0,4.0,Finished,MEDIUM,1,88.87107936507934
+2022,Emilia Romagna Grand Prix,MAG,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,88.9404126984127
+2022,Emilia Romagna Grand Prix,STR,Aston Martin,10.0,1.0,+1 Lap,MEDIUM,1,89.31093548387096
+2022,Miami Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,HARD,1,94.91677358490564
+2022,Miami Grand Prix,LEC,Ferrari,2.0,18.0,Finished,HARD,1,96.14809259259258
+2022,Miami Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,1,97.43456363636363
+2022,Miami Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,97.51929090909093
+2022,Miami Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,97.76987272727273
+2022,Miami Grand Prix,HAM,Mercedes,6.0,8.0,Finished,HARD,1,97.71621818181819
+2022,Miami Grand Prix,BOT,Alfa Romeo,7.0,6.0,Finished,HARD,1,97.82858181818182
+2022,Miami Grand Prix,OCO,Alpine,8.0,4.0,Finished,HARD,1,98.93751785714286
+2022,Miami Grand Prix,ALB,Williams,9.0,2.0,Finished,HARD,1,98.99976785714286
+2022,Miami Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,2,99.08000000000001
+2022,Spanish Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,3,88.49204545454545
+2022,Spanish Grand Prix,PER,Red Bull Racing,2.0,19.0,Finished,MEDIUM,3,88.69010606060606
+2022,Spanish Grand Prix,RUS,Mercedes,3.0,15.0,Finished,MEDIUM,3,88.99093939393939
+2022,Spanish Grand Prix,SAI,Ferrari,4.0,12.0,Finished,MEDIUM,3,89.17701515151516
+2022,Spanish Grand Prix,HAM,Mercedes,5.0,10.0,Finished,SOFT,3,89.31831818181819
+2022,Spanish Grand Prix,BOT,Alfa Romeo,6.0,8.0,Finished,MEDIUM,2,89.40077272727271
+2022,Spanish Grand Prix,OCO,Alpine,7.0,6.0,Finished,SOFT,3,89.63442424242425
+2022,Spanish Grand Prix,NOR,McLaren,8.0,4.0,Finished,SOFT,3,89.75318181818182
+2022,Spanish Grand Prix,ALO,Alpine,9.0,2.0,+1 Lap,SOFT,3,89.9588
+2022,Spanish Grand Prix,TSU,AlphaTauri,10.0,1.0,+1 Lap,SOFT,3,90.01723076923078
+2022,Monaco Grand Prix,PER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,4,89.49477419354838
+2022,Monaco Grand Prix,SAI,Ferrari,2.0,18.0,Finished,HARD,3,89.5175322580645
+2022,Monaco Grand Prix,VER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,4,89.52037096774194
+2022,Monaco Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,4,89.54141935483871
+2022,Monaco Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,3,90.65820634920635
+2022,Monaco Grand Prix,NOR,McLaren,6.0,9.0,Finished,HARD,5,90.58950793650794
+2022,Monaco Grand Prix,ALO,Alpine,7.0,6.0,Finished,MEDIUM,3,91.13414285714286
+2022,Monaco Grand Prix,HAM,Mercedes,8.0,4.0,Finished,MEDIUM,4,91.15574603174603
+2022,Monaco Grand Prix,BOT,Alfa Romeo,9.0,2.0,Finished,HARD,3,91.48973015873015
+2022,Monaco Grand Prix,VET,Aston Martin,10.0,1.0,Finished,HARD,4,91.68304761904763
+2022,Azerbaijan Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,109.64182000000001
+2022,Azerbaijan Grand Prix,PER,Red Bull Racing,2.0,19.0,Finished,HARD,2,110.04222
+2022,Azerbaijan Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,2,110.54699999999998
+2022,Azerbaijan Grand Prix,HAM,Mercedes,4.0,12.0,Finished,HARD,2,111.07112
+2022,Azerbaijan Grand Prix,GAS,AlphaTauri,5.0,10.0,Finished,HARD,1,111.43078
+2022,Azerbaijan Grand Prix,VET,Aston Martin,6.0,8.0,Finished,HARD,1,111.56998
+2022,Azerbaijan Grand Prix,ALO,Alpine,7.0,6.0,Finished,HARD,1,111.64402
+2022,Azerbaijan Grand Prix,RIC,McLaren,8.0,4.0,Finished,HARD,1,111.50908
+2022,Azerbaijan Grand Prix,NOR,McLaren,9.0,2.0,Finished,HARD,1,112.51954901960785
+2022,Azerbaijan Grand Prix,OCO,Alpine,10.0,1.0,Finished,HARD,1,111.96647999999999
+2022,Canadian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,82.59652857142858
+2022,Canadian Grand Prix,SAI,Ferrari,2.0,19.0,Finished,HARD,2,82.61071428571431
+2022,Canadian Grand Prix,HAM,Mercedes,3.0,15.0,Finished,HARD,2,82.69661428571429
+2022,Canadian Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,2,82.77242857142856
+2022,Canadian Grand Prix,LEC,Ferrari,5.0,10.0,Finished,HARD,1,82.81321428571428
+2022,Canadian Grand Prix,OCO,Alpine,6.0,8.0,Finished,MEDIUM,2,82.9378142857143
+2022,Canadian Grand Prix,BOT,Alfa Romeo,7.0,6.0,Finished,HARD,1,82.95719999999999
+2022,Canadian Grand Prix,ZHO,Alfa Romeo,8.0,4.0,Finished,HARD,2,82.98155714285714
+2022,Canadian Grand Prix,ALO,Alpine,9.0,2.0,Finished,MEDIUM,2,82.95288571428573
+2022,Canadian Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,1,83.14255714285716
+2022,British Grand Prix,SAI,Ferrari,1.0,25.0,Finished,MEDIUM,3,94.32280851063828
+2022,British Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,3,97.3095306122449
+2022,British Grand Prix,HAM,Mercedes,3.0,16.0,Finished,MEDIUM,3,95.49212500000003
+2022,British Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,95.70135416666669
+2022,British Grand Prix,ALO,Alpine,5.0,10.0,Finished,MEDIUM,3,98.37810000000002
+2022,British Grand Prix,NOR,McLaren,6.0,8.0,Finished,MEDIUM,3,97.42567346938775
+2022,British Grand Prix,VER,Red Bull Racing,7.0,6.0,Finished,MEDIUM,4,97.74702040816327
+2022,British Grand Prix,MSC,Haas F1 Team,8.0,4.0,Finished,HARD,3,98.78228000000001
+2022,British Grand Prix,VET,Aston Martin,9.0,2.0,Finished,MEDIUM,3,98.75674
+2022,British Grand Prix,MAG,Haas F1 Team,10.0,1.0,Finished,MEDIUM,2,98.85244
+2022,Austrian Grand Prix,LEC,Ferrari,1.0,25.0,Finished,MEDIUM,3,71.32833802816901
+2022,Austrian Grand Prix,VER,Red Bull Racing,2.0,19.0,Finished,HARD,3,71.34991549295772
+2022,Austrian Grand Prix,HAM,Mercedes,3.0,15.0,Finished,MEDIUM,2,71.90885915492959
+2022,Austrian Grand Prix,RUS,Mercedes,4.0,12.0,Finished,None,2,72.15892957746478
+2022,Austrian Grand Prix,OCO,Alpine,5.0,10.0,Finished,HARD,2,72.29222535211268
+2022,Austrian Grand Prix,MSC,Haas F1 Team,6.0,8.0,+1 Lap,HARD,2,72.42302857142857
+2022,Austrian Grand Prix,NOR,McLaren,7.0,6.0,+1 Lap,HARD,2,72.46455714285715
+2022,Austrian Grand Prix,MAG,Haas F1 Team,8.0,4.0,+1 Lap,None,2,72.51325714285714
+2022,Austrian Grand Prix,RIC,McLaren,9.0,2.0,+1 Lap,HARD,2,72.5808
+2022,Austrian Grand Prix,ALO,Alpine,10.0,1.0,+1 Lap,HARD,3,72.61052857142859
+2022,French Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,99.86735294117645
+2022,French Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,1,100.92076923076924
+2022,French Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,1,101.07917307692308
+2022,French Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,HARD,1,101.12650000000001
+2022,French Grand Prix,SAI,Ferrari,5.0,11.0,Finished,MEDIUM,2,102.4713962264151
+2022,French Grand Prix,ALO,Alpine,6.0,8.0,Finished,HARD,1,101.75509615384615
+2022,French Grand Prix,NOR,McLaren,7.0,6.0,Finished,HARD,1,102.90826415094341
+2022,French Grand Prix,OCO,Alpine,8.0,4.0,Finished,HARD,1,103.00133962264151
+2022,French Grand Prix,RIC,McLaren,9.0,2.0,Finished,HARD,1,103.06573584905662
+2022,French Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,1,103.10681132075473
+2022,Hungarian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,85.37017142857144
+2022,Hungarian Grand Prix,HAM,Mercedes,2.0,19.0,Finished,MEDIUM,2,85.4820857142857
+2022,Hungarian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,MEDIUM,2,85.54641428571428
+2022,Hungarian Grand Prix,SAI,Ferrari,4.0,12.0,Finished,MEDIUM,2,85.57844285714287
+2022,Hungarian Grand Prix,PER,Red Bull Racing,5.0,10.0,Finished,MEDIUM,2,85.59428571428572
+2022,Hungarian Grand Prix,LEC,Ferrari,6.0,8.0,Finished,MEDIUM,3,85.59941428571429
+2022,Hungarian Grand Prix,NOR,McLaren,7.0,6.0,Finished,HARD,2,86.48874285714287
+2022,Hungarian Grand Prix,ALO,Alpine,8.0,4.0,+1 Lap,HARD,1,86.72646376811596
+2022,Hungarian Grand Prix,OCO,Alpine,9.0,2.0,+1 Lap,HARD,1,86.76811594202897
+2022,Hungarian Grand Prix,VET,Aston Martin,10.0,1.0,+1 Lap,MEDIUM,2,86.7701884057971
+2022,Belgian Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,2,114.1045
+2022,Belgian Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,2,114.24557142857144
+2022,Belgian Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,2,114.39097619047618
+2022,Belgian Grand Prix,RUS,Mercedes,4.0,12.0,Finished,MEDIUM,2,114.59483333333331
+2022,Belgian Grand Prix,ALO,Alpine,5.0,10.0,Finished,MEDIUM,2,115.7175
+2022,Belgian Grand Prix,LEC,Ferrari,6.0,8.0,Finished,MEDIUM,3,115.6982380952381
+2022,Belgian Grand Prix,OCO,Alpine,7.0,6.0,Finished,MEDIUM,2,115.9874761904762
+2022,Belgian Grand Prix,VET,Aston Martin,8.0,4.0,Finished,MEDIUM,2,115.89685714285716
+2022,Belgian Grand Prix,GAS,AlphaTauri,9.0,2.0,Finished,SOFT,3,115.72978048780489
+2022,Belgian Grand Prix,ALB,Williams,10.0,1.0,Finished,MEDIUM,2,116.50635714285714
+2022,Dutch Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,SOFT,4,79.55160563380281
+2022,Dutch Grand Prix,RUS,Mercedes,2.0,18.0,Finished,MEDIUM,3,80.65061111111112
+2022,Dutch Grand Prix,LEC,Ferrari,3.0,15.0,Finished,SOFT,4,80.74586111111111
+2022,Dutch Grand Prix,HAM,Mercedes,4.0,12.0,Finished,MEDIUM,3,80.77484722222223
+2022,Dutch Grand Prix,PER,Red Bull Racing,5.0,10.0,Finished,MEDIUM,4,80.84640277777777
+2022,Dutch Grand Prix,ALO,Alpine,6.0,8.0,Finished,SOFT,3,80.85454166666666
+2022,Dutch Grand Prix,NOR,McLaren,7.0,6.0,Finished,HARD,3,80.86220833333334
+2022,Dutch Grand Prix,SAI,Ferrari,8.0,4.0,Finished,MEDIUM,3,80.815125
+2022,Dutch Grand Prix,OCO,Alpine,9.0,2.0,Finished,HARD,3,80.8873611111111
+2022,Dutch Grand Prix,STR,Aston Martin,10.0,1.0,Finished,SOFT,4,80.906
+2022,Italian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,SOFT,2,91.08511320754718
+2022,Italian Grand Prix,LEC,Ferrari,2.0,18.0,Finished,SOFT,3,91.13126415094341
+2022,Italian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,SOFT,2,89.9386730769231
+2022,Italian Grand Prix,SAI,Ferrari,4.0,12.0,Finished,MEDIUM,2,91.18060377358489
+2022,Italian Grand Prix,HAM,Mercedes,5.0,10.0,Finished,MEDIUM,1,91.18662264150943
+2022,Italian Grand Prix,PER,Red Bull Racing,6.0,9.0,Finished,HARD,2,91.20003773584905
+2022,Italian Grand Prix,NOR,McLaren,7.0,6.0,Finished,MEDIUM,2,91.20222641509433
+2022,Italian Grand Prix,GAS,AlphaTauri,8.0,4.0,Finished,HARD,1,91.20579245283018
+2022,Italian Grand Prix,DEV,Williams,9.0,2.0,Finished,MEDIUM,1,91.21949056603773
+2022,Italian Grand Prix,ZHO,Alfa Romeo,10.0,1.0,Finished,HARD,1,91.23435849056604
+2022,Singapore Grand Prix,PER,Red Bull Racing,1.0,25.0,Finished,INTERMEDIATE,1,117.18531372549018
+2022,Singapore Grand Prix,LEC,Ferrari,2.0,18.0,Finished,INTERMEDIATE,1,118.34280769230769
+2022,Singapore Grand Prix,SAI,Ferrari,3.0,15.0,Finished,INTERMEDIATE,1,118.13227450980392
+2022,Singapore Grand Prix,NOR,McLaren,4.0,12.0,Finished,INTERMEDIATE,1,119.79726415094339
+2022,Singapore Grand Prix,RIC,McLaren,5.0,10.0,Finished,INTERMEDIATE,1,121.35067924528302
+2022,Singapore Grand Prix,STR,Aston Martin,6.0,8.0,Finished,INTERMEDIATE,1,121.37049056603774
+2022,Singapore Grand Prix,VER,Red Bull Racing,7.0,6.0,Finished,INTERMEDIATE,2,120.41553846153846
+2022,Singapore Grand Prix,VET,Aston Martin,8.0,4.0,Finished,INTERMEDIATE,1,121.1001923076923
+2022,Singapore Grand Prix,HAM,Mercedes,9.0,2.0,Finished,INTERMEDIATE,1,119.84488235294117
+2022,Singapore Grand Prix,GAS,AlphaTauri,10.0,1.0,Finished,INTERMEDIATE,1,121.21623076923076
+2022,Japanese Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,INTERMEDIATE,2,109.07429166666667
+2022,Japanese Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,INTERMEDIATE,2,110.33820833333333
+2022,Japanese Grand Prix,LEC,Ferrari,3.0,15.0,Finished,INTERMEDIATE,2,110.26808333333334
+2022,Japanese Grand Prix,OCO,Alpine,4.0,12.0,Finished,INTERMEDIATE,2,111.05900000000001
+2022,Japanese Grand Prix,HAM,Mercedes,5.0,10.0,Finished,INTERMEDIATE,2,111.22670833333332
+2022,Japanese Grand Prix,VET,Aston Martin,6.0,8.0,Finished,INTERMEDIATE,2,112.04283333333335
+2022,Japanese Grand Prix,ALO,Alpine,7.0,6.0,Finished,INTERMEDIATE,3,111.57175
+2022,Japanese Grand Prix,RUS,Mercedes,8.0,4.0,Finished,INTERMEDIATE,2,111.73620833333331
+2022,Japanese Grand Prix,LAT,Williams,9.0,2.0,Finished,INTERMEDIATE,2,112.90708333333333
+2022,Japanese Grand Prix,NOR,McLaren,10.0,1.0,Finished,INTERMEDIATE,2,113.00266666666666
+2022,United States Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,102.95738000000001
+2022,United States Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,2,103.15706
+2022,United States Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,2,103.09034
+2022,United States Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,103.41772
+2022,United States Grand Prix,RUS,Mercedes,5.0,11.0,Finished,HARD,3,104.32752
+2022,United States Grand Prix,NOR,McLaren,6.0,8.0,Finished,HARD,2,107.3623396226415
+2022,United States Grand Prix,ALO,Alpine,7.0,6.0,Finished,HARD,2,106.30213461538462
+2022,United States Grand Prix,VET,Aston Martin,8.0,4.0,Finished,MEDIUM,2,104.42829999999998
+2022,United States Grand Prix,MAG,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,107.41815094339623
+2022,United States Grand Prix,TSU,AlphaTauri,10.0,1.0,Finished,MEDIUM,2,107.70283018867924
+2022,Mexico City Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,1,83.33421126760562
+2022,Mexico City Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,1,83.54809859154928
+2022,Mexico City Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,1,83.5890985915493
+2022,Mexico City Grand Prix,RUS,Mercedes,4.0,13.0,Finished,HARD,2,84.03042253521127
+2022,Mexico City Grand Prix,SAI,Ferrari,5.0,10.0,Finished,MEDIUM,1,84.15284507042254
+2022,Mexico City Grand Prix,LEC,Ferrari,6.0,8.0,Finished,MEDIUM,1,84.30285915492956
+2022,Mexico City Grand Prix,RIC,McLaren,7.0,6.0,+1 Lap,MEDIUM,1,84.84665714285715
+2022,Mexico City Grand Prix,OCO,Alpine,8.0,4.0,+1 Lap,HARD,1,85.02082857142857
+2022,Mexico City Grand Prix,NOR,McLaren,9.0,2.0,+1 Lap,HARD,1,85.08175714285716
+2022,Mexico City Grand Prix,BOT,Alfa Romeo,10.0,1.0,+1 Lap,MEDIUM,1,85.13011428571428
+2022,São Paulo Grand Prix,RUS,Mercedes,1.0,26.0,Finished,SOFT,2,83.29639436619719
+2022,São Paulo Grand Prix,HAM,Mercedes,2.0,18.0,Finished,SOFT,2,83.31792957746478
+2022,São Paulo Grand Prix,SAI,Ferrari,3.0,15.0,Finished,SOFT,3,83.35345070422537
+2022,São Paulo Grand Prix,LEC,Ferrari,4.0,12.0,Finished,SOFT,3,83.41528169014083
+2022,São Paulo Grand Prix,ALO,Alpine,5.0,10.0,Finished,MEDIUM,3,83.43105633802816
+2022,São Paulo Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,SOFT,3,83.43802816901406
+2022,São Paulo Grand Prix,PER,Red Bull Racing,7.0,6.0,Finished,MEDIUM,2,83.49470422535214
+2022,São Paulo Grand Prix,OCO,Alpine,8.0,4.0,Finished,SOFT,2,83.5596338028169
+2022,São Paulo Grand Prix,BOT,Alfa Romeo,9.0,2.0,Finished,SOFT,2,83.61402816901409
+2022,São Paulo Grand Prix,STR,Aston Martin,10.0,1.0,Finished,MEDIUM,2,83.62811267605633
+2022,Abu Dhabi Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,90.79162068965515
+2022,Abu Dhabi Grand Prix,LEC,Ferrari,2.0,18.0,Finished,HARD,1,90.9428448275862
+2022,Abu Dhabi Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,HARD,2,90.9656379310345
+2022,Abu Dhabi Grand Prix,SAI,Ferrari,4.0,12.0,Finished,HARD,2,91.22079310344827
+2022,Abu Dhabi Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,2,91.41037931034482
+2022,Abu Dhabi Grand Prix,NOR,McLaren,6.0,9.0,Finished,MEDIUM,2,91.7611724137931
+2022,Abu Dhabi Grand Prix,OCO,Alpine,7.0,6.0,Finished,HARD,2,91.77851724137929
+2022,Abu Dhabi Grand Prix,STR,Aston Martin,8.0,4.0,Finished,MEDIUM,2,92.11801724137932
+2022,Abu Dhabi Grand Prix,RIC,McLaren,9.0,2.0,Finished,HARD,1,92.22727586206895
+2022,Abu Dhabi Grand Prix,VET,Aston Martin,10.0,1.0,Finished,HARD,1,92.23813793103449
+2023,Bahrain Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,SOFT,2,98.89010526315789
+2023,Bahrain Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,SOFT,2,99.10040350877193
+2023,Bahrain Grand Prix,ALO,Aston Martin,3.0,15.0,Finished,HARD,2,99.56794736842104
+2023,Bahrain Grand Prix,SAI,Ferrari,4.0,12.0,Finished,HARD,2,99.73312280701754
+2023,Bahrain Grand Prix,HAM,Mercedes,5.0,10.0,Finished,HARD,2,99.78443859649124
+2023,Bahrain Grand Prix,STR,Aston Martin,6.0,8.0,Finished,HARD,2,99.84628070175438
+2023,Bahrain Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,2,99.87033333333332
+2023,Bahrain Grand Prix,BOT,Alfa Romeo,8.0,4.0,Finished,HARD,2,100.16461403508774
+2023,Bahrain Grand Prix,GAS,Alpine,9.0,2.0,Finished,HARD,3,100.18401754385965
+2023,Bahrain Grand Prix,ALB,Williams,10.0,1.0,Finished,SOFT,3,100.46508771929824
+2023,Saudi Arabian Grand Prix,PER,Red Bull Racing,1.0,25.0,Finished,HARD,1,94.24502083333334
+2023,Saudi Arabian Grand Prix,VER,Red Bull Racing,2.0,19.0,Finished,HARD,1,94.92664583333334
+2023,Saudi Arabian Grand Prix,ALO,Aston Martin,3.0,15.0,Finished,HARD,1,94.83587499999999
+2023,Saudi Arabian Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,1,95.16035416666666
+2023,Saudi Arabian Grand Prix,HAM,Mercedes,5.0,10.0,Finished,MEDIUM,1,95.64362500000003
+2023,Saudi Arabian Grand Prix,SAI,Ferrari,6.0,8.0,Finished,HARD,1,97.04638775510206
+2023,Saudi Arabian Grand Prix,LEC,Ferrari,7.0,6.0,Finished,HARD,1,97.24300000000001
+2023,Saudi Arabian Grand Prix,OCO,Alpine,8.0,4.0,Finished,HARD,1,97.4653469387755
+2023,Saudi Arabian Grand Prix,GAS,Alpine,9.0,2.0,Finished,HARD,1,97.53079591836733
+2023,Saudi Arabian Grand Prix,MAG,Haas F1 Team,10.0,1.0,Finished,HARD,1,98.79439999999998
+2023,Australian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,3,85.4693846153846
+2023,Australian Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,3,87.48888679245282
+2023,Australian Grand Prix,ALO,Aston Martin,3.0,15.0,Finished,HARD,3,85.77373076923078
+2023,Australian Grand Prix,STR,Aston Martin,4.0,12.0,Finished,HARD,3,86.12126923076924
+2023,Australian Grand Prix,PER,Red Bull Racing,5.0,11.0,Finished,HARD,6,86.38034615384615
+2023,Australian Grand Prix,NOR,McLaren,6.0,8.0,Finished,HARD,3,86.56167307692309
+2023,Australian Grand Prix,HUL,Haas F1 Team,7.0,6.0,Finished,HARD,3,86.52936538461539
+2023,Australian Grand Prix,PIA,McLaren,8.0,4.0,Finished,HARD,4,87.2793076923077
+2023,Australian Grand Prix,ZHO,Alfa Romeo,9.0,2.0,Finished,HARD,5,87.85013461538462
+2023,Australian Grand Prix,TSU,AlphaTauri,10.0,1.0,Finished,HARD,4,87.79834615384614
+2023,Azerbaijan Grand Prix,PER,Red Bull Racing,1.0,25.0,Finished,HARD,1,106.54489795918369
+2023,Azerbaijan Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,105.89039583333333
+2023,Azerbaijan Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,1,107.07857142857142
+2023,Azerbaijan Grand Prix,ALO,Aston Martin,4.0,12.0,Finished,HARD,1,107.28244897959186
+2023,Azerbaijan Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,106.84575
+2023,Azerbaijan Grand Prix,HAM,Mercedes,6.0,8.0,Finished,HARD,1,109.08368000000002
+2023,Azerbaijan Grand Prix,STR,Aston Martin,7.0,6.0,Finished,HARD,1,107.0551875
+2023,Azerbaijan Grand Prix,RUS,Mercedes,8.0,5.0,Finished,HARD,2,107.59704166666667
+2023,Azerbaijan Grand Prix,NOR,McLaren,9.0,2.0,Finished,HARD,1,109.78929999999998
+2023,Azerbaijan Grand Prix,TSU,AlphaTauri,10.0,1.0,Finished,HARD,1,109.88801999999998
+2023,Miami Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,HARD,1,92.24984210526316
+2023,Miami Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,HARD,1,92.34429824561404
+2023,Miami Grand Prix,ALO,Aston Martin,3.0,15.0,Finished,HARD,1,92.71133333333334
+2023,Miami Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,1,92.83280701754387
+2023,Miami Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,92.90792982456139
+2023,Miami Grand Prix,HAM,Mercedes,6.0,8.0,Finished,HARD,1,93.14894736842105
+2023,Miami Grand Prix,LEC,Ferrari,7.0,6.0,Finished,HARD,1,93.17945614035088
+2023,Miami Grand Prix,GAS,Alpine,8.0,4.0,Finished,HARD,1,93.22650877192982
+2023,Miami Grand Prix,OCO,Alpine,9.0,2.0,Finished,HARD,1,93.26954385964913
+2023,Miami Grand Prix,MAG,Haas F1 Team,10.0,1.0,Finished,HARD,1,93.35414035087719
+2023,Monaco Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,1,83.74333333333334
+2023,Monaco Grand Prix,ALO,Aston Martin,2.0,18.0,Finished,HARD,2,84.10129487179486
+2023,Monaco Grand Prix,OCO,Alpine,3.0,15.0,Finished,MEDIUM,2,84.21756410256411
+2023,Monaco Grand Prix,HAM,Mercedes,4.0,13.0,Finished,MEDIUM,2,84.24412820512819
+2023,Monaco Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,84.40082051282052
+2023,Monaco Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,2,84.53679487179488
+2023,Monaco Grand Prix,GAS,Alpine,7.0,6.0,Finished,HARD,2,84.54284615384616
+2023,Monaco Grand Prix,SAI,Ferrari,8.0,4.0,Finished,HARD,2,84.55603846153846
+2023,Monaco Grand Prix,NOR,McLaren,9.0,2.0,Lapped,MEDIUM,2,84.88364935064935
+2023,Monaco Grand Prix,PIA,McLaren,10.0,1.0,Lapped,HARD,1,85.01219480519481
+2023,Spanish Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,HARD,2,79.96878787878786
+2023,Spanish Grand Prix,HAM,Mercedes,2.0,18.0,Finished,SOFT,2,80.33378787878789
+2023,Spanish Grand Prix,RUS,Mercedes,3.0,15.0,Finished,SOFT,2,80.45953030303029
+2023,Spanish Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,80.51139393939393
+2023,Spanish Grand Prix,SAI,Ferrari,5.0,10.0,Finished,MEDIUM,2,80.66118181818182
+2023,Spanish Grand Prix,STR,Aston Martin,6.0,8.0,Finished,SOFT,2,80.92818181818181
+2023,Spanish Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,SOFT,2,80.94040909090909
+2023,Spanish Grand Prix,OCO,Alpine,8.0,4.0,Finished,HARD,2,81.01790909090909
+2023,Spanish Grand Prix,ZHO,Alfa Romeo,9.0,2.0,Finished,HARD,2,81.05784848484848
+2023,Spanish Grand Prix,GAS,Alpine,10.0,1.0,Finished,HARD,2,81.08287878787881
+2023,Canadian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,80.54782857142857
+2023,Canadian Grand Prix,ALO,Aston Martin,2.0,18.0,Finished,HARD,2,80.68454285714286
+2023,Canadian Grand Prix,HAM,Mercedes,3.0,15.0,Finished,MEDIUM,2,80.75022857142856
+2023,Canadian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,1,80.81422857142856
+2023,Canadian Grand Prix,SAI,Ferrari,5.0,10.0,Finished,MEDIUM,1,80.85554285714285
+2023,Canadian Grand Prix,PER,Red Bull Racing,6.0,9.0,Finished,HARD,2,81.27679999999998
+2023,Canadian Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,81.41658571428573
+2023,Canadian Grand Prix,OCO,Alpine,8.0,4.0,Finished,HARD,2,81.42914285714288
+2023,Canadian Grand Prix,STR,Aston Martin,9.0,2.0,Finished,HARD,2,81.46785714285713
+2023,Canadian Grand Prix,BOT,Alfa Romeo,10.0,1.0,Finished,HARD,1,81.46828571428573
+2023,Austrian Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,4,72.30432394366196
+2023,Austrian Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,3,72.37692957746478
+2023,Austrian Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,3,72.54640845070422
+2023,Austrian Grand Prix,NOR,McLaren,4.0,12.0,Finished,HARD,3,72.6751267605634
+2023,Austrian Grand Prix,ALO,Aston Martin,5.0,10.0,Finished,MEDIUM,3,72.73132394366198
+2023,Austrian Grand Prix,SAI,Ferrari,6.0,8.0,Finished,MEDIUM,3,72.60540845070422
+2023,Austrian Grand Prix,RUS,Mercedes,7.0,6.0,Finished,MEDIUM,3,72.98605633802818
+2023,Austrian Grand Prix,HAM,Mercedes,8.0,4.0,Finished,MEDIUM,3,72.85638028169015
+2023,Austrian Grand Prix,STR,Aston Martin,9.0,2.0,Finished,HARD,4,73.13591549295772
+2023,Austrian Grand Prix,GAS,Alpine,10.0,1.0,Finished,MEDIUM,3,73.11653521126759
+2023,British Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,1,96.83268627450981
+2023,British Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,1,97.16343137254904
+2023,British Grand Prix,HAM,Mercedes,3.0,15.0,Finished,MEDIUM,1,97.48968627450981
+2023,British Grand Prix,PIA,McLaren,4.0,12.0,Finished,MEDIUM,1,98.55219230769231
+2023,British Grand Prix,RUS,Mercedes,5.0,10.0,Finished,SOFT,1,98.61815384615385
+2023,British Grand Prix,PER,Red Bull Racing,6.0,8.0,Finished,MEDIUM,1,98.65038461538461
+2023,British Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,MEDIUM,1,98.73328846153846
+2023,British Grand Prix,ALB,Williams,8.0,4.0,Finished,MEDIUM,1,98.74646153846155
+2023,British Grand Prix,LEC,Ferrari,9.0,2.0,Finished,MEDIUM,2,98.76205769230768
+2023,British Grand Prix,SAI,Ferrari,10.0,1.0,Finished,HARD,1,98.77665384615385
+2023,Hungarian Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,2,84.12334285714287
+2023,Hungarian Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,2,84.60521428571428
+2023,Hungarian Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,2,84.66052857142856
+2023,Hungarian Grand Prix,HAM,Mercedes,4.0,12.0,Finished,MEDIUM,2,84.6824
+2023,Hungarian Grand Prix,PIA,McLaren,5.0,10.0,Finished,MEDIUM,2,85.01722857142857
+2023,Hungarian Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,2,85.0637
+2023,Hungarian Grand Prix,LEC,Ferrari,7.0,6.0,Finished,HARD,2,85.05644285714286
+2023,Hungarian Grand Prix,SAI,Ferrari,8.0,4.0,Finished,HARD,2,85.13867142857144
+2023,Hungarian Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,HARD,2,85.2049
+2023,Hungarian Grand Prix,STR,Aston Martin,10.0,1.0,Lapped,HARD,2,85.55433333333332
+2023,Belgian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,SOFT,2,112.51022727272726
+2023,Belgian Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,SOFT,2,113.01715909090909
+2023,Belgian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,SOFT,2,113.24338636363638
+2023,Belgian Grand Prix,HAM,Mercedes,4.0,13.0,Finished,SOFT,3,113.63911363636367
+2023,Belgian Grand Prix,ALO,Aston Martin,5.0,10.0,Finished,MEDIUM,2,113.78713636363636
+2023,Belgian Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,1,113.94434090909091
+2023,Belgian Grand Prix,NOR,McLaren,7.0,6.0,Finished,SOFT,2,114.18565909090907
+2023,Belgian Grand Prix,OCO,Alpine,8.0,4.0,Finished,SOFT,2,114.20838636363636
+2023,Belgian Grand Prix,STR,Aston Martin,9.0,2.0,Finished,SOFT,1,114.31340909090908
+2023,Belgian Grand Prix,TSU,AlphaTauri,10.0,1.0,Finished,MEDIUM,2,114.33343181818185
+2023,Dutch Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,SOFT,6,84.77281690140845
+2023,Dutch Grand Prix,ALO,Aston Martin,2.0,19.0,Finished,SOFT,5,85.24677464788732
+2023,Dutch Grand Prix,GAS,Alpine,3.0,15.0,Finished,SOFT,5,84.4893
+2023,Dutch Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,SOFT,6,84.49738571428571
+2023,Dutch Grand Prix,SAI,Ferrari,5.0,10.0,Finished,SOFT,5,84.59154285714285
+2023,Dutch Grand Prix,HAM,Mercedes,6.0,8.0,Finished,SOFT,5,84.65327142857143
+2023,Dutch Grand Prix,NOR,McLaren,7.0,6.0,Finished,SOFT,6,84.88695714285716
+2023,Dutch Grand Prix,ALB,Williams,8.0,4.0,Finished,SOFT,4,84.98851428571429
+2023,Dutch Grand Prix,PIA,McLaren,9.0,2.0,Finished,SOFT,5,85.14080000000001
+2023,Dutch Grand Prix,OCO,Alpine,10.0,1.0,Finished,SOFT,6,85.20774285714285
+2023,Italian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,86.68907843137254
+2023,Italian Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,HARD,1,86.80798039215689
+2023,Italian Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,1,86.90854901960785
+2023,Italian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,86.9121568627451
+2023,Italian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,87.04256862745096
+2023,Italian Grand Prix,HAM,Mercedes,6.0,8.0,Finished,HARD,1,87.42788235294118
+2023,Italian Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,87.57350980392158
+2023,Italian Grand Prix,NOR,McLaren,8.0,4.0,Finished,HARD,1,87.58023529411766
+2023,Italian Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,HARD,1,87.59680392156862
+2023,Italian Grand Prix,BOT,Alfa Romeo,10.0,1.0,Finished,MEDIUM,1,87.96249999999998
+2023,Singapore Grand Prix,SAI,Ferrari,1.0,25.0,Finished,HARD,1,100.9673
+2023,Singapore Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,101.91670491803278
+2023,Singapore Grand Prix,HAM,Mercedes,3.0,16.0,Finished,MEDIUM,2,101.91575409836067
+2023,Singapore Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,102.19391803278687
+2023,Singapore Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,HARD,1,102.40618032786885
+2023,Singapore Grand Prix,GAS,Alpine,6.0,8.0,Finished,HARD,1,102.72396721311476
+2023,Singapore Grand Prix,PIA,McLaren,7.0,6.0,Finished,HARD,1,102.80545901639344
+2023,Singapore Grand Prix,PER,Red Bull Racing,8.0,4.0,Finished,HARD,1,103.10345901639344
+2023,Singapore Grand Prix,LAW,AlphaTauri,9.0,2.0,Finished,HARD,1,103.13619672131148
+2023,Singapore Grand Prix,MAG,Haas F1 Team,10.0,1.0,Finished,HARD,2,102.3470833333333
+2023,Japanese Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,2,99.06016000000004
+2023,Japanese Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,2,99.4957
+2023,Japanese Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,2,99.85790000000001
+2023,Japanese Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,100.03676000000002
+2023,Japanese Grand Prix,HAM,Mercedes,5.0,10.0,Finished,HARD,2,100.20878
+2023,Japanese Grand Prix,SAI,Ferrari,6.0,8.0,Finished,MEDIUM,2,100.17446
+2023,Japanese Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,1,100.41562
+2023,Japanese Grand Prix,ALO,Aston Martin,8.0,4.0,Finished,HARD,2,100.68493999999998
+2023,Japanese Grand Prix,OCO,Alpine,9.0,2.0,Finished,HARD,2,102.17596078431374
+2023,Japanese Grand Prix,GAS,Alpine,10.0,1.0,Finished,HARD,2,101.03768
+2023,Qatar Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,3,91.17873214285714
+2023,Qatar Grand Prix,PIA,McLaren,2.0,18.0,Finished,MEDIUM,3,91.260625
+2023,Qatar Grand Prix,NOR,McLaren,3.0,15.0,Finished,MEDIUM,3,92.37082456140351
+2023,Qatar Grand Prix,RUS,Mercedes,4.0,12.0,Finished,MEDIUM,4,92.86468421052632
+2023,Qatar Grand Prix,LEC,Ferrari,5.0,10.0,Finished,MEDIUM,3,91.91016071428574
+2023,Qatar Grand Prix,ALO,Aston Martin,6.0,8.0,Finished,MEDIUM,3,92.06441071428571
+2023,Qatar Grand Prix,OCO,Alpine,7.0,6.0,Finished,MEDIUM,3,92.34016071428572
+2023,Qatar Grand Prix,BOT,Alfa Romeo,8.0,4.0,Finished,HARD,3,93.43387719298246
+2023,Qatar Grand Prix,ZHO,Alfa Romeo,9.0,2.0,Finished,HARD,3,93.60166666666667
+2023,Qatar Grand Prix,PER,Red Bull Racing,10.0,1.0,Finished,MEDIUM,4,93.58507017543862
+2023,United States Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,102.16717857142858
+2023,United States Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,2,102.35878571428573
+2023,United States Grand Prix,SAI,Ferrari,3.0,15.0,Finished,MEDIUM,2,102.43742857142855
+2023,United States Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,102.49682142857144
+2023,United States Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,2,102.6135892857143
+2023,United States Grand Prix,GAS,Alpine,6.0,8.0,Finished,MEDIUM,2,103.02425000000001
+2023,United States Grand Prix,STR,Aston Martin,7.0,6.0,Finished,MEDIUM,3,103.03675
+2023,United States Grand Prix,TSU,AlphaTauri,8.0,5.0,Finished,MEDIUM,3,103.49548214285713
+2023,United States Grand Prix,ALB,Williams,9.0,2.0,Finished,MEDIUM,2,103.62635714285715
+2023,United States Grand Prix,SAR,Williams,10.0,1.0,Finished,MEDIUM,2,103.73857142857142
+2023,Mexico City Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,3,83.60258823529414
+2023,Mexico City Grand Prix,HAM,Mercedes,2.0,19.0,Finished,MEDIUM,2,84.11548529411765
+2023,Mexico City Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,2,84.19160294117647
+2023,Mexico City Grand Prix,SAI,Ferrari,4.0,12.0,Finished,HARD,2,84.40054411764707
+2023,Mexico City Grand Prix,NOR,McLaren,5.0,10.0,Finished,MEDIUM,3,86.34752857142858
+2023,Mexico City Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,2,86.48937142857142
+2023,Mexico City Grand Prix,RIC,AlphaTauri,7.0,6.0,Finished,HARD,2,85.56749275362317
+2023,Mexico City Grand Prix,PIA,McLaren,8.0,4.0,Finished,MEDIUM,2,86.51551428571426
+2023,Mexico City Grand Prix,ALB,Williams,9.0,2.0,Finished,MEDIUM,2,85.64076811594204
+2023,Mexico City Grand Prix,OCO,Alpine,10.0,1.0,Finished,MEDIUM,1,86.76280000000003
+2023,São Paulo Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,SOFT,4,78.33891428571428
+2023,São Paulo Grand Prix,NOR,McLaren,2.0,19.0,Finished,SOFT,4,78.43897142857145
+2023,São Paulo Grand Prix,ALO,Aston Martin,3.0,15.0,Finished,SOFT,4,78.74318571428572
+2023,São Paulo Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,SOFT,4,78.7408
+2023,São Paulo Grand Prix,STR,Aston Martin,5.0,10.0,Finished,SOFT,4,78.84649999999998
+2023,São Paulo Grand Prix,SAI,Ferrari,6.0,8.0,Finished,SOFT,4,78.93827142857143
+2023,São Paulo Grand Prix,GAS,Alpine,7.0,6.0,Finished,SOFT,4,78.67128571428573
+2023,São Paulo Grand Prix,HAM,Mercedes,8.0,4.0,Finished,SOFT,4,79.15551428571429
+2023,São Paulo Grand Prix,TSU,AlphaTauri,9.0,2.0,Finished,SOFT,4,78.84042857142859
+2023,São Paulo Grand Prix,OCO,Alpine,10.0,1.0,Lapped,SOFT,5,79.07078260869565
+2023,Las Vegas Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,99.95786666666665
+2023,Las Vegas Grand Prix,LEC,Ferrari,2.0,18.0,Finished,HARD,1,99.8696888888889
+2023,Las Vegas Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,HARD,2,101.3956304347826
+2023,Las Vegas Grand Prix,OCO,Alpine,4.0,12.0,Finished,HARD,1,100.75993333333332
+2023,Las Vegas Grand Prix,STR,Aston Martin,5.0,10.0,Finished,HARD,2,101.58449999999998
+2023,Las Vegas Grand Prix,SAI,Ferrari,6.0,8.0,Finished,HARD,2,101.91695652173914
+2023,Las Vegas Grand Prix,HAM,Mercedes,7.0,6.0,Finished,HARD,2,102.53736956521739
+2023,Las Vegas Grand Prix,RUS,Mercedes,8.0,4.0,Finished,HARD,2,100.39648888888888
+2023,Las Vegas Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,HARD,2,102.5866086956522
+2023,Las Vegas Grand Prix,PIA,McLaren,10.0,2.0,Finished,HARD,2,101.14095555555555
+2023,Abu Dhabi Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,HARD,2,90.04524137931033
+2023,Abu Dhabi Grand Prix,LEC,Ferrari,2.0,18.0,Finished,HARD,2,90.35546551724137
+2023,Abu Dhabi Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,2,90.39572413793101
+2023,Abu Dhabi Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,HARD,2,90.32891379310347
+2023,Abu Dhabi Grand Prix,NOR,McLaren,5.0,10.0,Finished,HARD,2,90.46393103448277
+2023,Abu Dhabi Grand Prix,PIA,McLaren,6.0,8.0,Finished,HARD,2,90.58812068965517
+2023,Abu Dhabi Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,HARD,2,90.72648275862068
+2023,Abu Dhabi Grand Prix,TSU,AlphaTauri,8.0,4.0,Finished,HARD,1,90.78813793103448
+2023,Abu Dhabi Grand Prix,HAM,Mercedes,9.0,2.0,Finished,HARD,2,90.8111724137931
+2023,Abu Dhabi Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,2,91.00441379310344
+2024,Bahrain Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,SOFT,2,96.57442105263156
+2024,Bahrain Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,SOFT,2,96.96840350877193
+2024,Bahrain Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,2,97.01494736842105
+2024,Bahrain Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,97.27036842105262
+2024,Bahrain Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,2,97.39526315789473
+2024,Bahrain Grand Prix,NOR,McLaren,6.0,8.0,Finished,HARD,2,97.42456140350878
+2024,Bahrain Grand Prix,HAM,Mercedes,7.0,6.0,Finished,HARD,2,97.45729824561403
+2024,Bahrain Grand Prix,PIA,McLaren,8.0,4.0,Finished,HARD,2,97.5583157894737
+2024,Bahrain Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,HARD,2,97.88822807017542
+2024,Bahrain Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,2,98.20978947368421
+2024,Saudi Arabian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,93.60822916666666
+2024,Saudi Arabian Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,HARD,1,93.86772916666666
+2024,Saudi Arabian Grand Prix,LEC,Ferrari,3.0,16.0,Finished,HARD,1,94.10120833333332
+2024,Saudi Arabian Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,1,94.4689375
+2024,Saudi Arabian Grand Prix,ALO,Aston Martin,5.0,10.0,Finished,HARD,1,94.55775000000001
+2024,Saudi Arabian Grand Prix,RUS,Mercedes,6.0,8.0,Finished,HARD,1,94.75318750000001
+2024,Saudi Arabian Grand Prix,BEA,Ferrari,7.0,6.0,Finished,HARD,1,96.0482448979592
+2024,Saudi Arabian Grand Prix,NOR,McLaren,8.0,4.0,Finished,MEDIUM,1,94.85802083333334
+2024,Saudi Arabian Grand Prix,HAM,Mercedes,9.0,2.0,Finished,MEDIUM,1,94.95504166666667
+2024,Saudi Arabian Grand Prix,HUL,Haas F1 Team,10.0,1.0,Finished,MEDIUM,1,95.76462499999998
+2024,Australian Grand Prix,SAI,Ferrari,1.0,25.0,Finished,HARD,2,83.22143103448276
+2024,Australian Grand Prix,LEC,Ferrari,2.0,19.0,Finished,HARD,2,83.26222413793103
+2024,Australian Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,2,83.32322413793102
+2024,Australian Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,2,83.83815517241379
+2024,Australian Grand Prix,PER,Red Bull Racing,5.0,10.0,Finished,HARD,2,84.19227586206898
+2024,Australian Grand Prix,STR,Aston Martin,6.0,8.0,Finished,HARD,2,84.82870689655172
+2024,Australian Grand Prix,TSU,RB,7.0,6.0,Finished,HARD,2,84.86972413793104
+2024,Australian Grand Prix,ALO,Aston Martin,8.0,4.0,Finished,HARD,2,84.61784482758623
+2024,Australian Grand Prix,HUL,Haas F1 Team,9.0,2.0,Finished,HARD,2,85.02406896551723
+2024,Australian Grand Prix,MAG,Haas F1 Team,10.0,1.0,Lapped,HARD,2,84.75305263157895
+2024,Japanese Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,MEDIUM,3,97.63750980392159
+2024,Japanese Grand Prix,PER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,3,97.90370588235294
+2024,Japanese Grand Prix,SAI,Ferrari,3.0,15.0,Finished,MEDIUM,3,98.13513725490199
+2024,Japanese Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,98.53758823529411
+2024,Japanese Grand Prix,NOR,McLaren,5.0,10.0,Finished,HARD,3,98.26139215686275
+2024,Japanese Grand Prix,ALO,Aston Martin,6.0,8.0,Finished,HARD,3,98.63931372549018
+2024,Japanese Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,3,98.97890196078433
+2024,Japanese Grand Prix,PIA,McLaren,8.0,4.0,Finished,HARD,3,98.76094117647058
+2024,Japanese Grand Prix,HAM,Mercedes,9.0,2.0,Finished,HARD,3,98.92286274509802
+2024,Japanese Grand Prix,TSU,RB,10.0,1.0,Lapped,HARD,3,100.2397
+2024,Chinese Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,105.23545283018866
+2024,Chinese Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,107.44454545454545
+2024,Chinese Grand Prix,PER,Red Bull Racing,3.0,15.0,Finished,HARD,2,105.89950943396227
+2024,Chinese Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,106.02094339622643
+2024,Chinese Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,107.08585185185186
+2024,Chinese Grand Prix,RUS,Mercedes,6.0,8.0,Finished,HARD,2,107.98790909090907
+2024,Chinese Grand Prix,ALO,Aston Martin,7.0,7.0,Finished,MEDIUM,3,107.29964814814815
+2024,Chinese Grand Prix,PIA,McLaren,8.0,4.0,Finished,HARD,2,108.32136363636364
+2024,Chinese Grand Prix,HAM,Mercedes,9.0,2.0,Finished,HARD,2,109.11678571428571
+2024,Chinese Grand Prix,HUL,Haas F1 Team,10.0,1.0,Finished,HARD,2,108.4119090909091
+2024,Miami Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,1,94.52207142857142
+2024,Miami Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,94.68669642857142
+2024,Miami Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,1,94.78089285714285
+2024,Miami Grand Prix,PER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,95.86887719298245
+2024,Miami Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,95.81198245614036
+2024,Miami Grand Prix,HAM,Mercedes,6.0,8.0,Finished,MEDIUM,1,95.90282456140349
+2024,Miami Grand Prix,TSU,RB,7.0,6.0,Finished,HARD,1,96.07124561403512
+2024,Miami Grand Prix,RUS,Mercedes,8.0,4.0,Finished,HARD,1,96.22219298245612
+2024,Miami Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,MEDIUM,1,96.26285964912282
+2024,Miami Grand Prix,OCO,Alpine,10.0,1.0,Finished,HARD,1,96.30915789473684
+2024,Emilia Romagna Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,81.35320634920635
+2024,Emilia Romagna Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,81.36471428571429
+2024,Emilia Romagna Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,1,81.47885714285715
+2024,Emilia Romagna Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,1,81.57752380952381
+2024,Emilia Romagna Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,81.70757142857144
+2024,Emilia Romagna Grand Prix,HAM,Mercedes,6.0,8.0,Finished,HARD,1,81.91041269841271
+2024,Emilia Romagna Grand Prix,RUS,Mercedes,7.0,7.0,Finished,MEDIUM,2,82.10168253968256
+2024,Emilia Romagna Grand Prix,PER,Red Bull Racing,8.0,4.0,Finished,HARD,1,82.22266666666667
+2024,Emilia Romagna Grand Prix,STR,Aston Martin,9.0,2.0,Finished,MEDIUM,1,82.616
+2024,Emilia Romagna Grand Prix,TSU,RB,10.0,1.0,Lapped,HARD,1,82.95335483870969
+2024,Monaco Grand Prix,LEC,Ferrari,1.0,25.0,Finished,HARD,1,109.32074025974026
+2024,Monaco Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,1,109.43609090909091
+2024,Monaco Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,1,109.4866883116883
+2024,Monaco Grand Prix,NOR,McLaren,4.0,12.0,Finished,HARD,1,109.56542857142858
+2024,Monaco Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,1,109.69736363636362
+2024,Monaco Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,MEDIUM,2,109.76576623376621
+2024,Monaco Grand Prix,HAM,Mercedes,7.0,7.0,Finished,MEDIUM,2,109.83961038961039
+2024,Monaco Grand Prix,TSU,RB,8.0,4.0,Lapped,HARD,1,112.1433896103896
+2024,Monaco Grand Prix,ALB,Williams,9.0,2.0,Lapped,HARD,1,112.33254545454548
+2024,Monaco Grand Prix,GAS,Alpine,10.0,1.0,Lapped,MEDIUM,1,112.41292207792208
+2024,Canadian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,INTERMEDIATE,2,90.68467142857145
+2024,Canadian Grand Prix,NOR,McLaren,2.0,18.0,Finished,INTERMEDIATE,2,90.7400857142857
+2024,Canadian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,INTERMEDIATE,3,90.74634285714288
+2024,Canadian Grand Prix,HAM,Mercedes,4.0,13.0,Finished,INTERMEDIATE,3,90.75488571428568
+2024,Canadian Grand Prix,PIA,McLaren,5.0,10.0,Finished,INTERMEDIATE,2,90.83037142857144
+2024,Canadian Grand Prix,ALO,Aston Martin,6.0,8.0,Finished,INTERMEDIATE,2,90.93481428571427
+2024,Canadian Grand Prix,STR,Aston Martin,7.0,6.0,Finished,INTERMEDIATE,2,91.02217142857141
+2024,Canadian Grand Prix,RIC,RB,8.0,4.0,Finished,INTERMEDIATE,2,91.09427142857143
+2024,Canadian Grand Prix,GAS,Alpine,9.0,2.0,Finished,INTERMEDIATE,2,91.11354285714285
+2024,Canadian Grand Prix,OCO,Alpine,10.0,1.0,Finished,INTERMEDIATE,1,91.11771428571429
+2024,Spanish Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,SOFT,2,80.30646969696971
+2024,Spanish Grand Prix,NOR,McLaren,2.0,19.0,Finished,SOFT,2,80.3400909090909
+2024,Spanish Grand Prix,HAM,Mercedes,3.0,15.0,Finished,SOFT,2,80.57601515151515
+2024,Spanish Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,2,80.64465151515152
+2024,Spanish Grand Prix,LEC,Ferrari,5.0,10.0,Finished,SOFT,2,80.65054545454544
+2024,Spanish Grand Prix,SAI,Ferrari,6.0,8.0,Finished,HARD,2,80.77659090909091
+2024,Spanish Grand Prix,PIA,McLaren,7.0,6.0,Finished,SOFT,2,80.81798484848485
+2024,Spanish Grand Prix,PER,Red Bull Racing,8.0,4.0,Finished,SOFT,3,81.20834848484847
+2024,Spanish Grand Prix,GAS,Alpine,9.0,2.0,Finished,HARD,2,81.24624242424241
+2024,Spanish Grand Prix,OCO,Alpine,10.0,1.0,Finished,HARD,2,81.39569696969697
+2024,Austrian Grand Prix,RUS,Mercedes,1.0,25.0,Finished,MEDIUM,2,71.30701408450705
+2024,Austrian Grand Prix,PIA,McLaren,2.0,18.0,Finished,MEDIUM,2,71.33385915492956
+2024,Austrian Grand Prix,SAI,Ferrari,3.0,15.0,Finished,MEDIUM,2,71.37085915492958
+2024,Austrian Grand Prix,HAM,Mercedes,4.0,12.0,Finished,MEDIUM,2,71.63295774647887
+2024,Austrian Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,MEDIUM,3,71.69085915492958
+2024,Austrian Grand Prix,HUL,Haas F1 Team,6.0,8.0,Finished,HARD,2,72.06881690140845
+2024,Austrian Grand Prix,PER,Red Bull Racing,7.0,6.0,Finished,MEDIUM,2,72.07704225352113
+2024,Austrian Grand Prix,MAG,Haas F1 Team,8.0,4.0,Finished,HARD,2,72.15708450704226
+2024,Austrian Grand Prix,RIC,RB,9.0,2.0,Finished,HARD,2,72.16854929577465
+2024,Austrian Grand Prix,GAS,Alpine,10.0,1.0,Finished,MEDIUM,2,72.17695774647886
+2024,British Grand Prix,HAM,Mercedes,1.0,25.0,Finished,MEDIUM,2,95.13575
+2024,British Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,MEDIUM,2,95.16392307692308
+2024,British Grand Prix,NOR,McLaren,3.0,15.0,Finished,MEDIUM,2,95.28088461538461
+2024,British Grand Prix,PIA,McLaren,4.0,12.0,Finished,MEDIUM,2,95.37476923076922
+2024,British Grand Prix,SAI,Ferrari,5.0,11.0,Finished,MEDIUM,3,96.04571153846155
+2024,British Grand Prix,HUL,Haas F1 Team,6.0,8.0,Finished,MEDIUM,2,96.20732692307693
+2024,British Grand Prix,STR,Aston Martin,7.0,6.0,Finished,MEDIUM,2,96.22361538461536
+2024,British Grand Prix,ALO,Aston Martin,8.0,4.0,Finished,MEDIUM,2,96.35838461538461
+2024,British Grand Prix,ALB,Williams,9.0,2.0,Finished,MEDIUM,2,96.45088461538461
+2024,British Grand Prix,TSU,RB,10.0,1.0,Finished,MEDIUM,2,96.66080769230767
+2024,Hungarian Grand Prix,PIA,McLaren,1.0,25.0,Finished,MEDIUM,2,84.02841428571428
+2024,Hungarian Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,2,84.059
+2024,Hungarian Grand Prix,HAM,Mercedes,3.0,15.0,Finished,HARD,2,84.24098571428571
+2024,Hungarian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,84.30964285714286
+2024,Hungarian Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,MEDIUM,2,84.3334
+2024,Hungarian Grand Prix,SAI,Ferrari,6.0,8.0,Finished,MEDIUM,2,84.35802857142858
+2024,Hungarian Grand Prix,PER,Red Bull Racing,7.0,6.0,Finished,MEDIUM,2,84.59687142857143
+2024,Hungarian Grand Prix,RUS,Mercedes,8.0,5.0,Finished,HARD,2,84.63367142857143
+2024,Hungarian Grand Prix,TSU,RB,9.0,2.0,Finished,HARD,1,85.1321142857143
+2024,Hungarian Grand Prix,STR,Aston Martin,10.0,1.0,Finished,MEDIUM,2,85.14235714285715
+2024,Belgian Grand Prix,HAM,Mercedes,1.0,25.0,Finished,HARD,2,109.0355909090909
+2024,Belgian Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,2,109.05029545454545
+2024,Belgian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,2,109.21793181818181
+2024,Belgian Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,109.23331818181822
+2024,Belgian Grand Prix,NOR,McLaren,5.0,10.0,Finished,HARD,2,109.2475
+2024,Belgian Grand Prix,SAI,Ferrari,6.0,8.0,Finished,HARD,2,109.47352272727272
+2024,Belgian Grand Prix,PER,Red Bull Racing,7.0,7.0,Finished,HARD,3,110.00534090909092
+2024,Belgian Grand Prix,ALO,Aston Martin,8.0,4.0,Finished,MEDIUM,1,110.1591590909091
+2024,Belgian Grand Prix,OCO,Alpine,9.0,2.0,Finished,HARD,2,110.21799999999999
+2024,Belgian Grand Prix,RIC,RB,10.0,1.0,Finished,SOFT,2,110.27195454545455
+2024,Dutch Grand Prix,NOR,McLaren,1.0,26.0,Finished,HARD,1,75.63220833333334
+2024,Dutch Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,75.95020833333335
+2024,Dutch Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,1,75.98552777777779
+2024,Dutch Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,1,76.01188888888889
+2024,Dutch Grand Prix,SAI,Ferrari,5.0,10.0,Finished,HARD,1,76.07855555555555
+2024,Dutch Grand Prix,PER,Red Bull Racing,6.0,8.0,Finished,HARD,1,76.18140277777778
+2024,Dutch Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,2,76.2518888888889
+2024,Dutch Grand Prix,HAM,Mercedes,8.0,4.0,Finished,SOFT,2,76.32108333333333
+2024,Dutch Grand Prix,GAS,Alpine,9.0,2.0,Lapped,HARD,1,76.81863380281689
+2024,Dutch Grand Prix,ALO,Aston Martin,10.0,1.0,Lapped,HARD,1,76.88805633802818
+2024,Italian Grand Prix,LEC,Ferrari,1.0,25.0,Finished,HARD,1,84.54201886792453
+2024,Italian Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,2,84.59228301886793
+2024,Italian Grand Prix,NOR,McLaren,3.0,16.0,Finished,HARD,2,84.65811320754716
+2024,Italian Grand Prix,SAI,Ferrari,4.0,12.0,Finished,HARD,1,84.83675471698113
+2024,Italian Grand Prix,HAM,Mercedes,5.0,10.0,Finished,HARD,2,84.97258490566038
+2024,Italian Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,HARD,2,85.25771698113209
+2024,Italian Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,2,85.29135849056603
+2024,Italian Grand Prix,PER,Red Bull Racing,8.0,4.0,Finished,HARD,2,85.56367924528304
+2024,Italian Grand Prix,ALB,Williams,9.0,2.0,Finished,HARD,1,85.81477358490567
+2024,Italian Grand Prix,MAG,Haas F1 Team,10.0,1.0,Finished,HARD,1,85.64205660377358
+2024,Azerbaijan Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,108.49345999999997
+2024,Azerbaijan Grand Prix,LEC,Ferrari,2.0,18.0,Finished,HARD,1,108.67784000000002
+2024,Azerbaijan Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,1,109.1279
+2024,Azerbaijan Grand Prix,NOR,McLaren,4.0,13.0,Finished,HARD,1,109.23942000000001
+2024,Azerbaijan Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,HARD,2,109.06310204081632
+2024,Azerbaijan Grand Prix,ALO,Aston Martin,6.0,8.0,Finished,HARD,1,110.22398000000001
+2024,Azerbaijan Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,110.25446000000002
+2024,Azerbaijan Grand Prix,COL,Williams,8.0,4.0,Finished,HARD,1,110.29074
+2024,Azerbaijan Grand Prix,HAM,Mercedes,9.0,2.0,Finished,HARD,2,110.33261999999999
+2024,Azerbaijan Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,HARD,1,110.35770000000001
+2024,Singapore Grand Prix,NOR,McLaren,1.0,25.0,Finished,HARD,1,97.62211290322581
+2024,Singapore Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,97.95993548387096
+2024,Singapore Grand Prix,PIA,McLaren,3.0,15.0,Finished,MEDIUM,1,98.29667741935482
+2024,Singapore Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,1,98.60662903225808
+2024,Singapore Grand Prix,LEC,Ferrari,5.0,10.0,Finished,MEDIUM,1,98.62904838709677
+2024,Singapore Grand Prix,HAM,Mercedes,6.0,8.0,Finished,HARD,1,98.99708064516128
+2024,Singapore Grand Prix,SAI,Ferrari,7.0,6.0,Finished,HARD,1,99.17112903225807
+2024,Singapore Grand Prix,ALO,Aston Martin,8.0,4.0,Lapped,HARD,1,99.2367868852459
+2024,Singapore Grand Prix,HUL,Haas F1 Team,9.0,2.0,Lapped,HARD,1,99.27395081967214
+2024,Singapore Grand Prix,PER,Red Bull Racing,10.0,1.0,Lapped,HARD,1,99.2982786885246
+2024,United States Grand Prix,LEC,Ferrari,1.0,25.0,Finished,HARD,1,99.80833333333332
+2024,United States Grand Prix,SAI,Ferrari,2.0,18.0,Finished,HARD,1,99.99779629629629
+2024,United States Grand Prix,VER,Red Bull Racing,3.0,15.0,Finished,HARD,1,100.18392592592592
+2024,United States Grand Prix,NOR,McLaren,4.0,12.0,Finished,MEDIUM,1,100.15840740740741
+2024,United States Grand Prix,PIA,McLaren,5.0,10.0,Finished,MEDIUM,1,101.22374545454547
+2024,United States Grand Prix,RUS,Mercedes,6.0,8.0,Finished,HARD,2,102.10569090909091
+2024,United States Grand Prix,PER,Red Bull Racing,7.0,6.0,Finished,HARD,1,101.15807407407408
+2024,United States Grand Prix,HUL,Haas F1 Team,8.0,4.0,Finished,HARD,1,102.16325454545454
+2024,United States Grand Prix,LAW,RB,9.0,2.0,Finished,HARD,1,101.46307407407409
+2024,United States Grand Prix,COL,Williams,10.0,1.0,Finished,HARD,1,102.37798181818184
+2024,Mexico City Grand Prix,SAI,Ferrari,1.0,25.0,Finished,HARD,1,85.29295774647888
+2024,Mexico City Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,85.35922535211267
+2024,Mexico City Grand Prix,LEC,Ferrari,3.0,16.0,Finished,HARD,2,85.77728169014082
+2024,Mexico City Grand Prix,HAM,Mercedes,4.0,12.0,Finished,HARD,1,85.92366197183101
+2024,Mexico City Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,85.97656338028169
+2024,Mexico City Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,HARD,1,86.1318028169014
+2024,Mexico City Grand Prix,MAG,Haas F1 Team,7.0,6.0,Finished,HARD,1,86.18932394366198
+2024,Mexico City Grand Prix,PIA,McLaren,8.0,4.0,Finished,MEDIUM,1,86.20743661971831
+2024,Mexico City Grand Prix,HUL,Haas F1 Team,9.0,2.0,Lapped,HARD,1,86.5502857142857
+2024,Mexico City Grand Prix,GAS,Alpine,10.0,1.0,Lapped,HARD,1,86.77695714285717
+2024,São Paulo Grand Prix,VER,Red Bull Racing,1.0,26.0,Finished,INTERMEDIATE,1,88.0506119402985
+2024,São Paulo Grand Prix,OCO,Alpine,2.0,18.0,Finished,INTERMEDIATE,1,88.32616417910448
+2024,São Paulo Grand Prix,GAS,Alpine,3.0,15.0,Finished,INTERMEDIATE,1,88.44259701492538
+2024,São Paulo Grand Prix,RUS,Mercedes,4.0,12.0,Finished,INTERMEDIATE,2,88.50752238805971
+2024,São Paulo Grand Prix,LEC,Ferrari,5.0,10.0,Finished,INTERMEDIATE,2,88.65179104477613
+2024,São Paulo Grand Prix,NOR,McLaren,6.0,8.0,Finished,INTERMEDIATE,2,88.59928358208957
+2024,São Paulo Grand Prix,TSU,RB,7.0,6.0,Finished,INTERMEDIATE,2,88.80149253731345
+2024,São Paulo Grand Prix,PIA,McLaren,8.0,4.0,Finished,INTERMEDIATE,2,88.7619552238806
+2024,São Paulo Grand Prix,LAW,RB,9.0,2.0,Finished,INTERMEDIATE,2,89.1299104477612
+2024,São Paulo Grand Prix,HAM,Mercedes,10.0,1.0,Finished,INTERMEDIATE,2,89.13016417910445
+2024,Las Vegas Grand Prix,RUS,Mercedes,1.0,25.0,Finished,HARD,2,98.51938
+2024,Las Vegas Grand Prix,HAM,Mercedes,2.0,18.0,Finished,HARD,2,98.66564
+2024,Las Vegas Grand Prix,SAI,Ferrari,3.0,15.0,Finished,HARD,2,98.75749999999998
+2024,Las Vegas Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,98.80503999999999
+2024,Las Vegas Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,HARD,2,98.85102
+2024,Las Vegas Grand Prix,NOR,McLaren,6.0,9.0,Finished,HARD,3,99.38707999999998
+2024,Las Vegas Grand Prix,PIA,McLaren,7.0,6.0,Finished,HARD,2,99.54668
+2024,Las Vegas Grand Prix,HUL,Haas F1 Team,8.0,4.0,Finished,HARD,2,99.71553999999998
+2024,Las Vegas Grand Prix,TSU,RB,9.0,2.0,Finished,HARD,2,99.77554
+2024,Las Vegas Grand Prix,PER,Red Bull Racing,10.0,1.0,Finished,HARD,2,99.78165999999999
+2024,Qatar Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,3,91.00656603773585
+2024,Qatar Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,3,93.57574545454546
+2024,Qatar Grand Prix,PIA,McLaren,3.0,15.0,Finished,MEDIUM,3,94.76075000000002
+2024,Qatar Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,4,96.04257894736843
+2024,Qatar Grand Prix,GAS,Alpine,5.0,10.0,Finished,MEDIUM,3,96.1772807017544
+2024,Qatar Grand Prix,SAI,Ferrari,6.0,8.0,Finished,MEDIUM,3,96.18945614035087
+2024,Qatar Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,MEDIUM,3,96.23140350877192
+2024,Qatar Grand Prix,ZHO,Kick Sauber,8.0,4.0,Finished,MEDIUM,3,96.32777192982456
+2024,Qatar Grand Prix,MAG,Haas F1 Team,9.0,2.0,Finished,HARD,3,96.44736842105264
+2024,Qatar Grand Prix,NOR,McLaren,10.0,2.0,Finished,MEDIUM,4,92.8209259259259
+2024,Abu Dhabi Grand Prix,NOR,McLaren,1.0,25.0,Finished,HARD,1,89.53949999999999
+2024,Abu Dhabi Grand Prix,SAI,Ferrari,2.0,18.0,Finished,HARD,1,89.64005172413792
+2024,Abu Dhabi Grand Prix,LEC,Ferrari,3.0,15.0,Finished,HARD,1,90.08998275862069
+2024,Abu Dhabi Grand Prix,HAM,Mercedes,4.0,12.0,Finished,HARD,1,90.1685172413793
+2024,Abu Dhabi Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,90.18670689655174
+2024,Abu Dhabi Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,HARD,1,90.39893103448276
+2024,Abu Dhabi Grand Prix,GAS,Alpine,7.0,6.0,Finished,HARD,1,90.79053448275862
+2024,Abu Dhabi Grand Prix,HUL,Haas F1 Team,8.0,4.0,Finished,HARD,1,90.84215517241378
+2024,Abu Dhabi Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,HARD,2,90.95972413793103
+2024,Abu Dhabi Grand Prix,PIA,McLaren,10.0,1.0,Finished,HARD,2,90.98468965517242
+2025,Australian Grand Prix,NOR,McLaren,1.0,25.0,Finished,INTERMEDIATE,5,103.42830188679247
+2025,Australian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,INTERMEDIATE,5,103.34115094339623
+2025,Australian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,INTERMEDIATE,5,103.68633962264151
+2025,Australian Grand Prix,ANT,Mercedes,4.0,12.0,Finished,INTERMEDIATE,5,104.57937037037036
+2025,Australian Grand Prix,ALB,Williams,5.0,10.0,Finished,INTERMEDIATE,5,104.67238888888889
+2025,Australian Grand Prix,STR,Aston Martin,6.0,8.0,Finished,INTERMEDIATE,5,104.73012962962963
+2025,Australian Grand Prix,HUL,Kick Sauber,7.0,6.0,Finished,INTERMEDIATE,5,104.74016666666667
+2025,Australian Grand Prix,LEC,Ferrari,8.0,4.0,Finished,INTERMEDIATE,5,103.93352830188681
+2025,Australian Grand Prix,PIA,McLaren,9.0,2.0,Finished,INTERMEDIATE,5,102.08446153846154
+2025,Australian Grand Prix,HAM,Ferrari,10.0,1.0,Finished,INTERMEDIATE,5,103.9671886792453
+2025,Chinese Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,97.41117857142856
+2025,Chinese Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,97.58524999999999
+2025,Chinese Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,1,97.60933928571428
+2025,Chinese Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,HARD,1,97.70860714285713
+2025,Chinese Grand Prix,OCO,Haas F1 Team,5.0,10.0,Finished,HARD,1,98.30348214285713
+2025,Chinese Grand Prix,ANT,Mercedes,6.0,8.0,Finished,HARD,1,98.3709642857143
+2025,Chinese Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,98.4169107142857
+2025,Chinese Grand Prix,BEA,Haas F1 Team,8.0,4.0,Finished,MEDIUM,1,98.50587499999999
+2025,Chinese Grand Prix,STR,Aston Martin,9.0,2.0,Finished,HARD,1,98.66482142857141
+2025,Chinese Grand Prix,SAI,Williams,10.0,1.0,Finished,HARD,1,98.77523214285713
+2025,Japanese Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,92.9619433962264
+2025,Japanese Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,92.98879245283018
+2025,Japanese Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,1,93.00211320754717
+2025,Japanese Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,93.2656603773585
+2025,Japanese Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,93.2895283018868
+2025,Japanese Grand Prix,ANT,Mercedes,6.0,8.0,Finished,MEDIUM,1,93.31422641509432
+2025,Japanese Grand Prix,HAM,Ferrari,7.0,6.0,Finished,HARD,1,93.51254716981131
+2025,Japanese Grand Prix,HAD,Racing Bulls,8.0,4.0,Finished,HARD,1,93.66258490566038
+2025,Japanese Grand Prix,ALB,Williams,9.0,2.0,Finished,HARD,1,93.72358490566035
+2025,Japanese Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,HARD,1,93.99079245283018
+2025,Bahrain Grand Prix,PIA,McLaren,1.0,25.0,Finished,MEDIUM,2,99.52437499999999
+2025,Bahrain Grand Prix,RUS,Mercedes,2.0,18.0,Finished,SOFT,2,99.94875
+2025,Bahrain Grand Prix,NOR,McLaren,3.0,15.0,Finished,MEDIUM,2,99.98400000000001
+2025,Bahrain Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,100.01864285714285
+2025,Bahrain Grand Prix,HAM,Ferrari,5.0,10.0,Finished,MEDIUM,2,100.27203571428572
+2025,Bahrain Grand Prix,VER,Red Bull Racing,6.0,8.0,Finished,MEDIUM,2,101.29526315789474
+2025,Bahrain Grand Prix,GAS,Alpine,7.0,6.0,Finished,HARD,2,101.32345614035087
+2025,Bahrain Grand Prix,OCO,Haas F1 Team,8.0,4.0,Finished,HARD,2,101.46805263157894
+2025,Bahrain Grand Prix,TSU,Red Bull Racing,9.0,2.0,Finished,SOFT,2,100.58903571428571
+2025,Bahrain Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,SOFT,2,101.5268245614035
+2025,Saudi Arabian Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,94.32264583333331
+2025,Saudi Arabian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,94.35722916666667
+2025,Saudi Arabian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,1,94.54710416666667
+2025,Saudi Arabian Grand Prix,NOR,McLaren,4.0,12.0,Finished,HARD,1,94.71422916666667
+2025,Saudi Arabian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,94.93283333333333
+2025,Saudi Arabian Grand Prix,ANT,Mercedes,6.0,8.0,Finished,HARD,1,95.12464583333333
+2025,Saudi Arabian Grand Prix,HAM,Ferrari,7.0,6.0,Finished,HARD,1,95.27227083333334
+2025,Saudi Arabian Grand Prix,SAI,Williams,8.0,4.0,Finished,HARD,1,95.82191666666667
+2025,Saudi Arabian Grand Prix,ALB,Williams,9.0,2.0,Finished,HARD,1,95.92666666666668
+2025,Saudi Arabian Grand Prix,HAD,Racing Bulls,10.0,1.0,Finished,HARD,1,96.00102083333331
+2025,Miami Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,1,93.53661403508772
+2025,Miami Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,1,93.61784210526315
+2025,Miami Grand Prix,RUS,Mercedes,3.0,15.0,Finished,MEDIUM,1,94.1970350877193
+2025,Miami Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,HARD,1,94.23759649122806
+2025,Miami Grand Prix,ALB,Williams,5.0,10.0,Finished,HARD,1,94.3798947368421
+2025,Miami Grand Prix,ANT,Mercedes,6.0,8.0,Finished,HARD,1,94.51033333333334
+2025,Miami Grand Prix,LEC,Ferrari,7.0,6.0,Finished,HARD,1,94.5372456140351
+2025,Miami Grand Prix,HAM,Ferrari,8.0,4.0,Finished,MEDIUM,1,94.59250877192983
+2025,Miami Grand Prix,SAI,Williams,9.0,2.0,Finished,HARD,1,94.59936842105263
+2025,Miami Grand Prix,TSU,Red Bull Racing,10.0,1.0,Finished,HARD,1,94.7547543859649
+2025,Emilia Romagna Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,2,87.19363492063495
+2025,Emilia Romagna Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,2,87.29060317460316
+2025,Emilia Romagna Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,2,87.39928571428572
+2025,Emilia Romagna Grand Prix,HAM,Ferrari,4.0,12.0,Finished,HARD,2,87.42150793650794
+2025,Emilia Romagna Grand Prix,ALB,Williams,5.0,10.0,Finished,HARD,2,87.47847619047621
+2025,Emilia Romagna Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,2,87.52338095238096
+2025,Emilia Romagna Grand Prix,RUS,Mercedes,7.0,6.0,Finished,HARD,2,87.54338095238097
+2025,Emilia Romagna Grand Prix,SAI,Williams,8.0,4.0,Finished,HARD,2,87.55709523809524
+2025,Emilia Romagna Grand Prix,HAD,Racing Bulls,9.0,2.0,Finished,HARD,2,87.56801587301587
+2025,Emilia Romagna Grand Prix,TSU,Red Bull Racing,10.0,1.0,Finished,MEDIUM,2,87.61341269841272
+2025,Monaco Grand Prix,NOR,McLaren,1.0,25.0,Finished,HARD,2,77.35696153846155
+2025,Monaco Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,2,77.39710256410254
+2025,Monaco Grand Prix,PIA,McLaren,3.0,15.0,Finished,HARD,2,77.40385897435898
+2025,Monaco Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,77.62070512820515
+2025,Monaco Grand Prix,HAM,Ferrari,5.0,10.0,Finished,HARD,2,78.01576923076924
+2025,Monaco Grand Prix,HAD,Racing Bulls,6.0,8.0,Lapped,HARD,2,79.20681818181818
+2025,Monaco Grand Prix,OCO,Haas F1 Team,7.0,6.0,Lapped,HARD,2,79.21911688311688
+2025,Monaco Grand Prix,LAW,Racing Bulls,8.0,4.0,Lapped,HARD,2,79.22842857142857
+2025,Monaco Grand Prix,ALB,Williams,9.0,2.0,Lapped,MEDIUM,2,79.54884210526315
+2025,Monaco Grand Prix,SAI,Williams,10.0,1.0,Lapped,HARD,2,79.59309210526315
+2025,Spanish Grand Prix,PIA,McLaren,1.0,25.0,Finished,SOFT,3,84.50568181818181
+2025,Spanish Grand Prix,NOR,McLaren,2.0,18.0,Finished,SOFT,3,84.54312121212122
+2025,Spanish Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,3,84.6640909090909
+2025,Spanish Grand Prix,RUS,Mercedes,4.0,12.0,Finished,SOFT,3,84.67778787878788
+2025,Spanish Grand Prix,HUL,Kick Sauber,5.0,10.0,Finished,MEDIUM,3,84.71246969696969
+2025,Spanish Grand Prix,HAM,Ferrari,6.0,8.0,Finished,SOFT,3,84.74065151515151
+2025,Spanish Grand Prix,HAD,Racing Bulls,7.0,6.0,Finished,SOFT,3,84.7484393939394
+2025,Spanish Grand Prix,GAS,Alpine,8.0,4.0,Finished,SOFT,3,84.7766212121212
+2025,Spanish Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,SOFT,3,84.83240909090908
+2025,Spanish Grand Prix,VER,Red Bull Racing,10.0,1.0,Finished,SOFT,4,84.68486363636364
+2025,Canadian Grand Prix,RUS,Mercedes,1.0,25.0,Finished,HARD,5,78.7526857142857
+2025,Canadian Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,5,78.75594285714286
+2025,Canadian Grand Prix,ANT,Mercedes,3.0,15.0,Finished,HARD,5,78.76717142857142
+2025,Canadian Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,5,78.78281428571428
+2025,Canadian Grand Prix,LEC,Ferrari,5.0,10.0,Finished,HARD,5,78.80185714285714
+2025,Canadian Grand Prix,HAM,Ferrari,6.0,8.0,Finished,HARD,5,78.90572857142858
+2025,Canadian Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,HARD,6,78.90942857142858
+2025,Canadian Grand Prix,HUL,Kick Sauber,8.0,4.0,Finished,HARD,5,78.97217142857143
+2025,Canadian Grand Prix,OCO,Haas F1 Team,9.0,2.0,Lapped,HARD,4,79.9153768115942
+2025,Canadian Grand Prix,SAI,Williams,10.0,1.0,Lapped,HARD,4,79.92136231884058
+2025,Austrian Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,2,71.82418571428572
+2025,Austrian Grand Prix,PIA,McLaren,2.0,18.0,Finished,MEDIUM,2,71.86268571428573
+2025,Austrian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,2,72.10732857142855
+2025,Austrian Grand Prix,HAM,Ferrari,4.0,12.0,Finished,MEDIUM,2,72.23875714285715
+2025,Austrian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,2,72.71555714285714
+2025,Austrian Grand Prix,LAW,Racing Bulls,6.0,8.0,Finished,HARD,1,72.7921
+2025,Austrian Grand Prix,ALO,Aston Martin,7.0,6.0,Lapped,HARD,1,72.8859420289855
+2025,Austrian Grand Prix,BOR,Kick Sauber,8.0,4.0,Lapped,MEDIUM,2,72.89340579710145
+2025,Austrian Grand Prix,HUL,Kick Sauber,9.0,2.0,Lapped,MEDIUM,2,72.977
+2025,Austrian Grand Prix,OCO,Haas F1 Team,10.0,1.0,Lapped,HARD,2,73.00984057971014
+2025,British Grand Prix,NOR,McLaren,1.0,25.0,Finished,INTERMEDIATE,2,105.54921739130432
+2025,British Grand Prix,PIA,McLaren,2.0,18.0,Finished,INTERMEDIATE,2,105.34128260869566
+2025,British Grand Prix,HUL,Kick Sauber,3.0,15.0,Finished,INTERMEDIATE,2,106.56926086956523
+2025,British Grand Prix,HAM,Ferrari,4.0,12.0,Finished,INTERMEDIATE,2,107.64827659574468
+2025,British Grand Prix,VER,Red Bull Racing,5.0,10.0,Finished,INTERMEDIATE,2,106.58663043478262
+2025,British Grand Prix,GAS,Alpine,6.0,8.0,Finished,INTERMEDIATE,2,108.0542340425532
+2025,British Grand Prix,STR,Aston Martin,7.0,6.0,Finished,INTERMEDIATE,3,107.02754347826088
+2025,British Grand Prix,ALB,Williams,8.0,4.0,Finished,INTERMEDIATE,2,108.29774468085108
+2025,British Grand Prix,ALO,Aston Martin,9.0,2.0,Finished,INTERMEDIATE,2,108.271
+2025,British Grand Prix,RUS,Mercedes,10.0,1.0,Finished,INTERMEDIATE,3,108.3419574468085
+2025,Belgian Grand Prix,PIA,McLaren,1.0,25.0,Finished,MEDIUM,2,112.06253658536586
+2025,Belgian Grand Prix,NOR,McLaren,2.0,18.0,Finished,HARD,2,112.13146341463413
+2025,Belgian Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,2,112.61043902439023
+2025,Belgian Grand Prix,VER,Red Bull Racing,4.0,12.0,Finished,MEDIUM,2,112.67973170731706
+2025,Belgian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,2,113.06241463414632
+2025,Belgian Grand Prix,ALB,Williams,6.0,8.0,Finished,MEDIUM,2,113.1410731707317
+2025,Belgian Grand Prix,HAM,Ferrari,7.0,6.0,Finished,MEDIUM,2,113.51165853658537
+2025,Belgian Grand Prix,LAW,Racing Bulls,8.0,4.0,Finished,MEDIUM,2,113.55585365853659
+2025,Belgian Grand Prix,BOR,Kick Sauber,9.0,2.0,Finished,MEDIUM,2,113.66592682926832
+2025,Belgian Grand Prix,GAS,Alpine,10.0,1.0,Finished,MEDIUM,2,114.14143902439022
+2025,Hungarian Grand Prix,NOR,McLaren,1.0,25.0,Finished,HARD,1,81.73187142857144
+2025,Hungarian Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,2,81.74184285714284
+2025,Hungarian Grand Prix,RUS,Mercedes,3.0,15.0,Finished,HARD,2,82.04495714285714
+2025,Hungarian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,2,82.26844285714286
+2025,Hungarian Grand Prix,ALO,Aston Martin,5.0,10.0,Finished,MEDIUM,1,82.57530000000001
+2025,Hungarian Grand Prix,BOR,Kick Sauber,6.0,8.0,Finished,MEDIUM,1,82.67714285714285
+2025,Hungarian Grand Prix,STR,Aston Martin,7.0,6.0,Finished,MEDIUM,1,82.70578571428571
+2025,Hungarian Grand Prix,LAW,Racing Bulls,8.0,4.0,Finished,MEDIUM,1,82.72402857142856
+2025,Hungarian Grand Prix,VER,Red Bull Racing,9.0,2.0,Finished,HARD,2,82.76965714285714
+2025,Hungarian Grand Prix,ANT,Mercedes,10.0,1.0,Lapped,HARD,1,83.02724637681159
+2025,Dutch Grand Prix,PIA,McLaren,1.0,25.0,Finished,HARD,2,82.08123611111111
+2025,Dutch Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,SOFT,2,82.0988888888889
+2025,Dutch Grand Prix,HAD,Racing Bulls,3.0,15.0,Finished,HARD,2,82.12613888888889
+2025,Dutch Grand Prix,RUS,Mercedes,4.0,12.0,Finished,HARD,2,82.15976388888889
+2025,Dutch Grand Prix,ALB,Williams,5.0,10.0,Finished,HARD,2,82.16911111111112
+2025,Dutch Grand Prix,BEA,Haas F1 Team,6.0,8.0,Finished,HARD,2,82.20684722222222
+2025,Dutch Grand Prix,STR,Aston Martin,7.0,6.0,Finished,HARD,2,82.21313888888888
+2025,Dutch Grand Prix,ALO,Aston Martin,8.0,4.0,Finished,HARD,2,82.2438611111111
+2025,Dutch Grand Prix,TSU,Red Bull Racing,9.0,2.0,Finished,SOFT,2,82.27008333333333
+2025,Dutch Grand Prix,OCO,Haas F1 Team,10.0,1.0,Finished,HARD,1,82.27655555555556
+2025,Italian Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,1,83.10047169811321
+2025,Italian Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,1,83.46286792452828
+2025,Italian Grand Prix,PIA,McLaren,3.0,15.0,Finished,MEDIUM,1,83.503320754717
+2025,Italian Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,1,83.58394339622639
+2025,Italian Grand Prix,RUS,Mercedes,5.0,10.0,Finished,MEDIUM,1,83.7208679245283
+2025,Italian Grand Prix,HAM,Ferrari,6.0,8.0,Finished,MEDIUM,1,83.80705660377359
+2025,Italian Grand Prix,ALB,Williams,7.0,6.0,Finished,HARD,1,84.054
+2025,Italian Grand Prix,BOR,Kick Sauber,8.0,4.0,Finished,HARD,1,84.2039433962264
+2025,Italian Grand Prix,ANT,Mercedes,9.0,2.0,Finished,MEDIUM,1,84.13371698113208
+2025,Italian Grand Prix,HAD,Racing Bulls,10.0,1.0,Finished,HARD,2,84.30596226415093
+2025,Azerbaijan Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,106.05877083333331
+2025,Azerbaijan Grand Prix,RUS,Mercedes,2.0,18.0,Finished,HARD,1,106.45656250000002
+2025,Azerbaijan Grand Prix,SAI,Williams,3.0,15.0,Finished,MEDIUM,1,106.46104166666665
+2025,Azerbaijan Grand Prix,ANT,Mercedes,4.0,12.0,Finished,HARD,1,106.56822916666665
+2025,Azerbaijan Grand Prix,LAW,Racing Bulls,5.0,10.0,Finished,HARD,1,106.78754166666668
+2025,Azerbaijan Grand Prix,TSU,Red Bull Racing,6.0,8.0,Finished,HARD,1,106.92245833333332
+2025,Azerbaijan Grand Prix,NOR,McLaren,7.0,6.0,Finished,MEDIUM,1,106.97414583333334
+2025,Azerbaijan Grand Prix,HAM,Ferrari,8.0,4.0,Finished,HARD,1,107.092625
+2025,Azerbaijan Grand Prix,LEC,Ferrari,9.0,2.0,Finished,HARD,1,107.07568750000002
+2025,Azerbaijan Grand Prix,HAD,Racing Bulls,10.0,1.0,Finished,MEDIUM,1,107.08029166666667
+2025,Singapore Grand Prix,RUS,Mercedes,1.0,25.0,Finished,HARD,1,97.13495161290321
+2025,Singapore Grand Prix,VER,Red Bull Racing,2.0,18.0,Finished,HARD,1,97.22253225806452
+2025,Singapore Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,1,97.23279032258066
+2025,Singapore Grand Prix,PIA,McLaren,4.0,12.0,Finished,HARD,1,97.26633870967741
+2025,Singapore Grand Prix,ANT,Mercedes,5.0,10.0,Finished,HARD,1,97.6781935483871
+2025,Singapore Grand Prix,LEC,Ferrari,6.0,8.0,Finished,HARD,1,97.87682258064515
+2025,Singapore Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,MEDIUM,1,98.43603225806451
+2025,Singapore Grand Prix,HAM,Ferrari,8.0,4.0,Finished,MEDIUM,2,98.42932258064515
+2025,Singapore Grand Prix,BEA,Haas F1 Team,9.0,2.0,Finished,HARD,1,98.64345161290323
+2025,Singapore Grand Prix,SAI,Williams,10.0,1.0,Lapped,MEDIUM,1,98.90362295081967
+2025,United States Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,1,100.71716071428571
+2025,United States Grand Prix,NOR,McLaren,2.0,18.0,Finished,MEDIUM,1,100.85928571428572
+2025,United States Grand Prix,LEC,Ferrari,3.0,15.0,Finished,MEDIUM,1,100.99167857142858
+2025,United States Grand Prix,HAM,Ferrari,4.0,12.0,Finished,MEDIUM,1,101.22673214285714
+2025,United States Grand Prix,PIA,McLaren,5.0,10.0,Finished,MEDIUM,1,101.247125
+2025,United States Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,1,101.31458928571429
+2025,United States Grand Prix,TSU,Red Bull Racing,7.0,6.0,Finished,MEDIUM,1,101.65848214285714
+2025,United States Grand Prix,HUL,Kick Sauber,8.0,4.0,Finished,MEDIUM,1,101.73946428571428
+2025,United States Grand Prix,BEA,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,101.87291071428571
+2025,United States Grand Prix,ALO,Aston Martin,10.0,1.0,Finished,MEDIUM,1,101.96717857142858
+2025,Mexico City Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,1,82.79681690140843
+2025,Mexico City Grand Prix,LEC,Ferrari,2.0,18.0,Finished,MEDIUM,1,83.22391549295774
+2025,Mexico City Grand Prix,VER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,1,83.23412676056334
+2025,Mexico City Grand Prix,BEA,Haas F1 Team,4.0,12.0,Finished,SOFT,2,83.37364788732394
+2025,Mexico City Grand Prix,PIA,McLaren,5.0,10.0,Finished,SOFT,2,83.38928169014083
+2025,Mexico City Grand Prix,ANT,Mercedes,6.0,8.0,Finished,SOFT,2,83.47057746478873
+2025,Mexico City Grand Prix,RUS,Mercedes,7.0,6.0,Finished,SOFT,2,83.50508450704224
+2025,Mexico City Grand Prix,HAM,Ferrari,8.0,4.0,Finished,SOFT,2,83.5918309859155
+2025,Mexico City Grand Prix,OCO,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,83.85969014084505
+2025,Mexico City Grand Prix,BOR,Kick Sauber,10.0,1.0,Finished,MEDIUM,1,83.87939436619718
+2025,São Paulo Grand Prix,NOR,McLaren,1.0,25.0,Finished,MEDIUM,2,77.76895774647886
+2025,São Paulo Grand Prix,ANT,Mercedes,2.0,18.0,Finished,MEDIUM,2,77.9152676056338
+2025,São Paulo Grand Prix,VER,Red Bull Racing,3.0,15.0,Finished,MEDIUM,4,77.92036619718309
+2025,São Paulo Grand Prix,RUS,Mercedes,4.0,12.0,Finished,MEDIUM,2,77.98398591549297
+2025,São Paulo Grand Prix,PIA,McLaren,5.0,10.0,Finished,MEDIUM,2,77.99077464788732
+2025,São Paulo Grand Prix,BEA,Haas F1 Team,6.0,8.0,Finished,MEDIUM,2,78.18628169014086
+2025,São Paulo Grand Prix,LAW,Racing Bulls,7.0,6.0,Finished,MEDIUM,1,78.51039436619719
+2025,São Paulo Grand Prix,HAD,Racing Bulls,8.0,4.0,Finished,MEDIUM,2,78.51364788732393
+2025,São Paulo Grand Prix,HUL,Kick Sauber,9.0,2.0,Finished,MEDIUM,1,78.52000000000001
+2025,São Paulo Grand Prix,GAS,Alpine,10.0,1.0,Finished,MEDIUM,2,78.52830985915496
+2025,Las Vegas Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,97.36857999999998
+2025,Las Vegas Grand Prix,RUS,Mercedes,2.0,18.0,Finished,HARD,1,97.83949999999999
+2025,Las Vegas Grand Prix,ANT,Mercedes,3.0,15.0,Finished,HARD,1,97.87834000000002
+2025,Las Vegas Grand Prix,LEC,Ferrari,4.0,12.0,Finished,HARD,1,97.98214
+2025,Las Vegas Grand Prix,SAI,Williams,5.0,10.0,Finished,HARD,1,98.06706
+2025,Las Vegas Grand Prix,HAD,Racing Bulls,6.0,8.0,Finished,HARD,1,98.27372
+2025,Las Vegas Grand Prix,HUL,Kick Sauber,7.0,6.0,Finished,HARD,1,98.39126
+2025,Las Vegas Grand Prix,HAM,Ferrari,8.0,4.0,Finished,HARD,1,98.55596
+2025,Las Vegas Grand Prix,OCO,Haas F1 Team,9.0,2.0,Finished,MEDIUM,1,98.58128
+2025,Las Vegas Grand Prix,BEA,Haas F1 Team,10.0,1.0,Finished,HARD,1,98.77956
+2025,Qatar Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,MEDIUM,2,89.09194736842105
+2025,Qatar Grand Prix,PIA,McLaren,2.0,18.0,Finished,MEDIUM,2,89.2322105263158
+2025,Qatar Grand Prix,SAI,Williams,3.0,15.0,Finished,MEDIUM,2,89.48957894736841
+2025,Qatar Grand Prix,NOR,McLaren,4.0,12.0,Finished,MEDIUM,2,89.50098245614035
+2025,Qatar Grand Prix,ANT,Mercedes,5.0,10.0,Finished,MEDIUM,2,89.58873684210526
+2025,Qatar Grand Prix,RUS,Mercedes,6.0,8.0,Finished,MEDIUM,2,89.94456140350879
+2025,Qatar Grand Prix,ALO,Aston Martin,7.0,6.0,Finished,MEDIUM,2,90.04010526315788
+2025,Qatar Grand Prix,LEC,Ferrari,8.0,4.0,Finished,MEDIUM,2,90.0881754385965
+2025,Qatar Grand Prix,LAW,Racing Bulls,9.0,2.0,Finished,MEDIUM,2,90.14585964912281
+2025,Qatar Grand Prix,TSU,Red Bull Racing,10.0,1.0,Finished,MEDIUM,2,90.17563157894736
+2025,Abu Dhabi Grand Prix,VER,Red Bull Racing,1.0,25.0,Finished,HARD,1,89.09429310344828
+2025,Abu Dhabi Grand Prix,PIA,McLaren,2.0,18.0,Finished,HARD,1,89.31143103448277
+2025,Abu Dhabi Grand Prix,NOR,McLaren,3.0,15.0,Finished,HARD,2,89.3800172413793
+2025,Abu Dhabi Grand Prix,LEC,Ferrari,4.0,12.0,Finished,MEDIUM,2,89.49565517241379
+2025,Abu Dhabi Grand Prix,RUS,Mercedes,5.0,10.0,Finished,HARD,1,89.93158620689655
+2025,Abu Dhabi Grand Prix,ALO,Aston Martin,6.0,8.0,Finished,HARD,1,90.2591551724138
+2025,Abu Dhabi Grand Prix,OCO,Haas F1 Team,7.0,6.0,Finished,HARD,1,90.29905172413794
+2025,Abu Dhabi Grand Prix,HAM,Ferrari,8.0,4.0,Finished,MEDIUM,2,90.34722413793104
+2025,Abu Dhabi Grand Prix,HUL,Kick Sauber,9.0,2.0,Finished,HARD,2,90.45660344827587
+2025,Abu Dhabi Grand Prix,STR,Aston Martin,10.0,1.0,Finished,HARD,1,90.3791724137931

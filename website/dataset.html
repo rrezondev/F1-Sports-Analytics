@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dataset</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <nav>
+
+        <div class="logo">
+            🏎️ F1 Analytics
+        </div>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="analytics.html">Analytics</a></li>
+            <li><a href="predictions.html">Predictions</a></li>
+            <li><a href="dataset.html">Dataset</a></li>
+        </ul>
+
+    </nav>
+
+    <section class="hero" style="min-height:40vh;">
+
+        <h1>Dataset Overview</h1>
+
+        <p>
+            Historical Formula 1 dataset from 2021 to 2025.
+        </p>
+
+    </section>
+
+    <!-- TABLE -->
+
+    <section class="chart-section">
+
+    <div class="table-controls">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search season, driver or team..."
+        >
+
+    </div>
+
+    <div class="table-wrapper">
+
+        <table id="datasetTable">
+
+            <thead>
+
+                <tr>
+
+                    <th>Season</th>
+                    <th>Grand Prix</th>
+                    <th>Driver</th>
+                    <th>Team</th>
+                    <th>Points</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</section>
+
+<script src="js/dataset.js"></script>
+
+</section>
+
+    <script>
+
+    const searchInput = document.getElementById("searchInput");
+
+    searchInput.addEventListener("keyup", function () {
+
+        let filter = searchInput.value.toLowerCase();
+
+        let rows = document.querySelectorAll("#datasetTable tbody tr");
+
+        rows.forEach(row => {
+
+            let text = row.textContent.toLowerCase();
+
+            row.style.display =
+                text.includes(filter)
+                ? ""
+                : "none";
+
+        });
+
+    });
+
+    </script>
+
+</body>
+</html>

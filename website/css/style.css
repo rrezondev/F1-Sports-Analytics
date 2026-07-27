@@ -1,0 +1,539 @@
+/* GOOGLE FONT */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background:
+    radial-gradient(circle at top, #1a1a1a 0%, #0b0f19 50%);
+
+    color: white;
+
+    font-family: 'Orbitron', sans-serif;
+
+    overflow-x: hidden;
+
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #111827;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ff1801;
+    border-radius: 20px;
+}
+
+/* NAVBAR */
+
+nav {
+
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 25px 80px;
+
+    position: sticky;
+    top: 0;
+
+    z-index: 1000;
+
+    background: rgba(255,255,255,0.05);
+
+    backdrop-filter: blur(15px);
+
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+
+}
+
+/* LOGO */
+
+.logo {
+
+    font-size: 32px;
+    font-weight: 700;
+
+    color: #ff1801;
+
+    text-shadow:
+    0 0 10px rgba(255,24,1,0.7),
+    0 0 20px rgba(255,24,1,0.5);
+
+}
+
+/* NAV LINKS */
+
+nav ul {
+
+    display: flex;
+    list-style: none;
+    gap: 40px;
+
+}
+
+nav a {
+
+    text-decoration: none;
+    color: white;
+
+    font-size: 16px;
+
+    transition: 0.3s ease;
+
+    position: relative;
+
+}
+
+/* HOVER UNDERLINE */
+
+nav a::after {
+
+    content: '';
+
+    position: absolute;
+
+    left: 0;
+    bottom: -8px;
+
+    width: 0%;
+    height: 2px;
+
+    background: #ff1801;
+
+    transition: 0.3s;
+
+}
+
+nav a:hover::after {
+
+    width: 100%;
+
+}
+
+nav a:hover {
+
+    color: #ff1801;
+
+}
+
+/* HERO SECTION */
+
+.hero {
+
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    padding: 40px;
+
+    position: relative;
+
+}
+
+/* HERO GLOW */
+
+.hero::before {
+
+    content: '';
+
+    position: absolute;
+
+    width: 500px;
+    height: 500px;
+
+    background: rgba(255,24,1,0.15);
+
+    filter: blur(120px);
+
+    border-radius: 50%;
+
+    z-index: -1;
+
+}
+
+/* HERO TITLE */
+
+.hero h1 {
+
+    font-size: 90px;
+
+    line-height: 1.1;
+
+    margin-bottom: 30px;
+
+    text-transform: uppercase;
+
+    background: linear-gradient(
+        to right,
+        white,
+        #ff1801
+    );
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+/* HERO TEXT */
+
+.hero p {
+
+    max-width: 900px;
+
+    font-size: 22px;
+
+    line-height: 1.8;
+
+    color: #b3b3b3;
+
+}
+
+/* BUTTON */
+
+.hero button {
+
+    margin-top: 40px;
+
+    padding: 18px 50px;
+
+    border: none;
+    border-radius: 14px;
+
+    background: linear-gradient(
+        135deg,
+        #ff1801,
+        #ff4d4d
+    );
+
+    color: white;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.3s ease;
+
+    box-shadow:
+    0 0 20px rgba(255,24,1,0.5);
+
+}
+
+/* BUTTON HOVER */
+
+.hero button:hover {
+
+    transform: translateY(-5px) scale(1.03);
+
+    box-shadow:
+    0 0 40px rgba(255,24,1,0.8);
+
+}
+
+/* STATS SECTION */
+
+.stats {
+
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+
+    padding: 100px 40px;
+
+    flex-wrap: wrap;
+
+}
+
+/* CARD */
+
+.card {
+
+    width: 280px;
+
+    padding: 50px 30px;
+
+    border-radius: 24px;
+
+    background: rgba(255,255,255,0.05);
+
+    border: 1px solid rgba(255,255,255,0.08);
+
+    backdrop-filter: blur(15px);
+
+    text-align: center;
+
+    transition: 0.4s ease;
+
+    position: relative;
+
+    overflow: hidden;
+
+}
+
+/* CARD GLOW */
+
+.card::before {
+
+    content: '';
+
+    position: absolute;
+
+    top: -50%;
+    left: -50%;
+
+    width: 200%;
+    height: 200%;
+
+    background: radial-gradient(
+        rgba(255,24,1,0.15),
+        transparent
+    );
+
+    transform: rotate(30deg);
+
+}
+
+/* CARD HOVER */
+
+.card:hover {
+
+    transform: translateY(-12px);
+
+    box-shadow:
+    0 0 40px rgba(255,24,1,0.2);
+
+}
+
+/* CARD NUMBER */
+
+.card h2 {
+
+    font-size: 60px;
+
+    margin-bottom: 15px;
+
+    color: #ff1801;
+
+    text-shadow:
+    0 0 15px rgba(255,24,1,0.5);
+
+}
+
+/* CARD TEXT */
+
+.card p {
+
+    font-size: 18px;
+
+    color: #d1d5db;
+
+}
+
+/* CHART SECTION */
+
+.chart-section {
+
+    width: 90%;
+
+    max-width: 1200px;
+
+    margin: 60px auto;
+
+    padding: 40px;
+
+    background: rgba(255,255,255,0.04);
+
+    border-radius: 24px;
+
+    backdrop-filter: blur(15px);
+
+    border: 1px solid rgba(255,255,255,0.08);
+
+    box-shadow:
+    0 0 25px rgba(255,24,1,0.08);
+
+}
+
+/* TITLE */
+
+.chart-section h2 {
+
+    font-size: 42px;
+
+    margin-bottom: 40px;
+
+}
+
+/* CANVAS */
+
+.chart-container {
+
+    position: relative;
+
+    width: 100%;
+
+    height: 420px;
+
+    margin-top: 30px;
+
+}
+
+canvas {
+
+    background: rgba(255,255,255,0.03);
+
+    border-radius: 20px;
+
+    padding: 20px;
+
+}
+
+/* RESPONSIVE */
+
+@media(max-width: 900px) {
+
+    nav {
+
+        padding: 20px;
+
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+    .hero h1 {
+
+        font-size: 55px;
+
+    }
+
+    .hero p {
+
+        font-size: 18px;
+
+    }
+
+    .stats {
+
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+}
+
+/* TABLE CONTROLS */
+
+.table-controls {
+
+    margin-bottom: 30px;
+
+}
+
+.table-controls input {
+
+    width: 100%;
+
+    padding: 18px;
+
+    border-radius: 14px;
+
+    border: 1px solid rgba(255,255,255,0.1);
+
+    background: rgba(255,255,255,0.05);
+
+    color: white;
+
+    font-size: 16px;
+
+    outline: none;
+
+}
+
+/* TABLE */
+
+.table-wrapper {
+
+    overflow-x: auto;
+
+}
+
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    overflow: hidden;
+
+    border-radius: 20px;
+
+}
+
+thead {
+
+    background: linear-gradient(
+        90deg,
+        #ff1801,
+        #ff4d4d
+    );
+
+}
+
+th {
+
+    padding: 18px;
+
+    text-align: left;
+
+    font-size: 16px;
+
+}
+
+td {
+
+    padding: 18px;
+
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+
+    color: #d1d5db;
+
+}
+
+/* ROW HOVER */
+
+tbody tr {
+
+    transition: 0.3s;
+
+}
+
+tbody tr:hover {
+
+    background: rgba(255,255,255,0.05);
+
+    transform: scale(1.01);
+
+}

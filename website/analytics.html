@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Analytics</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+
+    <nav>
+
+        <div class="logo">
+            🏎️ F1 Analytics
+        </div>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="analytics.html">Analytics</a></li>
+            <li><a href="predictions.html">Predictions</a></li>
+            <li><a href="dataset.html">Dataset</a></li>
+        </ul>
+
+    </nav>
+
+    <!-- HERO -->
+
+    <section class="hero analytics-hero">
+
+        <h1>Performance Analytics</h1>
+
+        <p>
+            Driver performance, tire strategies, pit stops and lap time analysis.
+        </p>
+
+    </section>
+
+    <!-- DRIVER POINTS -->
+
+    <section class="chart-section">
+
+        <h2>🏁 Driver Points</h2>
+
+        <div class="chart-container">
+
+            <canvas id="pointsChart"></canvas>
+
+        </div>
+
+    </section>
+
+    <!-- TIRE STRATEGY -->
+
+    <section class="chart-section">
+
+        <h2>🛞 Tire Strategy Usage</h2>
+
+        <div class="chart-container">
+
+            <canvas id="tireChart"></canvas>
+
+        </div>
+
+    </section>
+
+    <!-- PIT STOPS -->
+
+    <section class="chart-section">
+
+        <h2>⛽ Average Pit Stops</h2>
+
+        <div class="chart-container">
+
+            <canvas id="pitChart"></canvas>
+
+        </div>
+
+    </section>
+
+    <script src="js/analytics.js"></script>
+
+</body>
+
+</html>
